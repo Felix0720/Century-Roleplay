@@ -1,0 +1,6 @@
+/*
+
+	TextDraw Click Script
+
+*/
+

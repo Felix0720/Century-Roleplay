@@ -1,0 +1,4600 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:40:45] password = ""  (string)
+[09:40:45] 
+[09:40:45] Server Plugins
+[09:40:45] --------------
+[09:40:45]  Loading plugin: crashdetect
+[09:40:45]   CrashDetect plugin 4.19.4
+[09:40:45]   Loaded.
+[09:40:45]  Loading plugin: irc
+[09:40:45]   Failed.
+[09:40:45]  Loading plugin: mysql
+[09:40:45]  >> plugin.mysql: R41-4 successfully loaded.
+[09:40:45]   Loaded.
+[09:40:45]  Loading plugin: sscanf
+[09:40:45] 
+
+[09:40:45]  ===============================
+
+[09:40:45]       sscanf plugin loaded.     
+
+[09:40:45]          Version:  2.8.3        
+
+[09:40:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:40:45]  ===============================
+
+[09:40:45]   Loaded.
+[09:40:45]  Loading plugin: streamer
+[09:40:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:40:45]   Loaded.
+[09:40:45]  Loading plugin: CTime
+[09:40:46]   Failed.
+[09:40:46]  Loading plugin: pawncmd
+[09:40:46] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:40:46]   Loaded.
+[09:40:46]  Loading plugin: gvar
+[09:40:46] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:40:46]   Loaded.
+[09:40:46]  Loading plugin: pawn-memory
+[09:40:46] ========================
+[09:40:46] = Memory access plugin =
+[09:40:46] =       Made by BigETI =
+[09:40:46] = Loaded!              =
+[09:40:46] ========================
+[09:40:46]   Loaded.
+[09:40:46]  Loading plugin: timerfix
+[09:40:46]   >> TimerFix v1.7 successfully loaded.
+[09:40:46]   Loaded.
+[09:40:46]  Loading plugin: nativechecker
+[09:40:46]   Loaded.
+[09:40:46]  Loaded 9 plugins.
+
+[09:40:46] 
+[09:40:46] Ban list
+[09:40:46] --------
+[09:40:46]  Loaded: samp.ban
+[09:40:46] 
+[09:40:46] 
+[09:40:46] Filterscripts
+[09:40:46] ---------------
+[09:40:46]   Loading filterscript 'object.amx'...
+[09:40:46]   Loading filterscript 'Buttons.amx'...
+[09:40:46]   Loading filterscript 'progressbar.amx'...
+[09:40:46]  
+[09:40:46]  
+[09:40:46]  
+[09:40:46]  ======================================= 
+[09:40:46]  |                                     | 
+[09:40:46]  |        YSI version 4.00.0001        | 
+[09:40:46]  |        By Alex "Y_Less" Cole        | 
+[09:40:46]  |                                     | 
+[09:40:46]  ======================================= 
+[09:40:46]  
+[09:40:46] 
+Progress Bar Editor loaded!
+[09:40:46] Use the /bar command to begin editing.
+
+[09:40:46]   Loaded 3 filterscripts.
+
+[09:40:46]  
+[09:40:46]  
+[09:40:46]  
+[09:40:46]  ======================================= 
+[09:40:46]  |                                     | 
+[09:40:46]  |        YSI version 4.00.0001        | 
+[09:40:46]  |        By Alex "Y_Less" Cole        | 
+[09:40:46]  |                                     | 
+[09:40:46]  ======================================= 
+[09:40:46]  
+[09:40:47] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:40:47] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:40:47] MySQL connection is successful.
+[09:40:47] [Object] Number of Dynamic objects loaded: 7465
+[09:40:47] Number of vehicle models: 28
+[09:40:47] [Server] Number of Loaded Data Server...
+[09:40:47] [Server] ServerMoney: 1454115538
+[09:40:47] [Doors] Number of Doors loaded: 24.
+[09:40:47] [FAMILY] Number of Familys loaded: 3.
+[09:40:47] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:40:47] [Dynamic Gas Station] Number of Loaded: 7.
+[09:40:47] [Dynamic ATM] Number of Loaded: 10.
+[09:40:47] [Gates] Number of Gates loaded: 3.
+[09:40:47] [Dynamic Tree] Number of Loaded: 31.
+[09:40:47] [Dynamic Ore] Number of Loaded: 25.
+[09:41:13] [connection] 182.2.39.112:34601 requests connection cookie.
+[09:41:13] [connection] incoming connection: 182.2.39.112:34601 id: 0
+[09:41:14] [join] Felix_Flesyah has joined the server (0:182.2.39.112)
+[09:42:21] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:12:38] password = ""  (string)
+[10:12:38] 
+[10:12:38] Server Plugins
+[10:12:38] --------------
+[10:12:38]  Loading plugin: crashdetect
+[10:12:38]   CrashDetect plugin 4.19.4
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: irc
+[10:12:38]   Failed.
+[10:12:38]  Loading plugin: mysql
+[10:12:38]  >> plugin.mysql: R41-4 successfully loaded.
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: sscanf
+[10:12:38] 
+
+[10:12:38]  ===============================
+
+[10:12:38]       sscanf plugin loaded.     
+
+[10:12:38]          Version:  2.8.3        
+
+[10:12:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:12:38]  ===============================
+
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: streamer
+[10:12:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: CTime
+[10:12:38]   Failed.
+[10:12:38]  Loading plugin: pawncmd
+[10:12:38] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: gvar
+[10:12:38] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: pawn-memory
+[10:12:38] ========================
+[10:12:38] = Memory access plugin =
+[10:12:38] =       Made by BigETI =
+[10:12:38] = Loaded!              =
+[10:12:38] ========================
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: timerfix
+[10:12:38]   >> TimerFix v1.7 successfully loaded.
+[10:12:38]   Loaded.
+[10:12:38]  Loading plugin: nativechecker
+[10:12:38]   Loaded.
+[10:12:38]  Loaded 9 plugins.
+
+[10:12:38] 
+[10:12:38] Ban list
+[10:12:38] --------
+[10:12:38]  Loaded: samp.ban
+[10:12:38] 
+[10:12:39] 
+[10:12:39] Filterscripts
+[10:12:39] ---------------
+[10:12:39]   Loading filterscript 'object.amx'...
+[10:12:39]   Loading filterscript 'Buttons.amx'...
+[10:12:39]   Loading filterscript 'progressbar.amx'...
+[10:12:39]  
+[10:12:39]  
+[10:12:39]  
+[10:12:39]  ======================================= 
+[10:12:39]  |                                     | 
+[10:12:39]  |        YSI version 4.00.0001        | 
+[10:12:39]  |        By Alex "Y_Less" Cole        | 
+[10:12:39]  |                                     | 
+[10:12:39]  ======================================= 
+[10:12:39]  
+[10:12:39] 
+Progress Bar Editor loaded!
+[10:12:39] Use the /bar command to begin editing.
+
+[10:12:39]   Loaded 3 filterscripts.
+
+[10:12:39]  
+[10:12:39]  
+[10:12:39]  
+[10:12:39]  ======================================= 
+[10:12:39]  |                                     | 
+[10:12:39]  |        YSI version 4.00.0001        | 
+[10:12:39]  |        By Alex "Y_Less" Cole        | 
+[10:12:39]  |                                     | 
+[10:12:39]  ======================================= 
+[10:12:39]  
+[10:12:40] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:12:40] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:12:40] MySQL connection is successful.
+[10:12:40] [Object] Number of Dynamic objects loaded: 7465
+[10:12:40] Number of vehicle models: 28
+[10:12:40] [Server] Number of Loaded Data Server...
+[10:12:40] [Server] ServerMoney: 1454115538
+[10:12:40] [Doors] Number of Doors loaded: 24.
+[10:12:40] [FAMILY] Number of Familys loaded: 3.
+[10:12:40] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:12:40] [Dynamic Gas Station] Number of Loaded: 7.
+[10:12:40] [Dynamic ATM] Number of Loaded: 10.
+[10:12:40] [Gates] Number of Gates loaded: 3.
+[10:12:40] [Dynamic Tree] Number of Loaded: 31.
+[10:12:40] [Dynamic Ore] Number of Loaded: 25.
+[10:13:03] [connection] 182.2.39.112:53516 requests connection cookie.
+[10:13:03] [connection] incoming connection: 182.2.39.112:53516 id: 0
+[10:13:03] [join] Felix_Flesyah has joined the server (0:182.2.39.112)
+[10:13:27] [part] Felix_Flesyah has left the server (0:0)
+Console input: gmx
+[10:13:53] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:13:53] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:13:53] [Gas Station] Number of Saved: 7
+[10:13:53] [Farmer Plant] Number of Saved: 0
+[10:14:05]  
+[10:14:05]  
+[10:14:05]  
+[10:14:05]  ======================================= 
+[10:14:05]  |                                     | 
+[10:14:05]  |        YSI version 4.00.0001        | 
+[10:14:05]  |        By Alex "Y_Less" Cole        | 
+[10:14:05]  |                                     | 
+[10:14:05]  ======================================= 
+[10:14:05]  
+[10:14:06] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:14:06] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:14:06] MySQL connection is successful.
+[10:14:06] [Object] Number of Dynamic objects loaded: 7465
+[10:14:06] Number of vehicle models: 28
+[10:14:06] [Server] Number of Loaded Data Server...
+[10:14:06] [Server] ServerMoney: 1454115538
+[10:14:06] [Doors] Number of Doors loaded: 24.
+[10:14:06] [FAMILY] Number of Familys loaded: 3.
+[10:14:06] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:14:06] [Dynamic Gas Station] Number of Loaded: 7.
+[10:14:06] [Dynamic ATM] Number of Loaded: 10.
+[10:14:06] [Gates] Number of Gates loaded: 3.
+[10:14:06] [Dynamic Tree] Number of Loaded: 31.
+[10:14:06] [Dynamic Ore] Number of Loaded: 25.
+[10:14:20] [connection] 182.2.39.112:46289 requests connection cookie.
+[10:14:20] [connection] incoming connection: 182.2.39.112:46289 id: 0
+[10:14:20] [join] Felix_Flesyah has joined the server (0:182.2.39.112)
+[10:14:56] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[10:14:56] [P_VEHICLE] Loaded player vehicle from: Felix_Flesyah(0)
+[10:15:58] [CMD]: Felix_Flesyah(0) has used the command 'stats' ()
+[10:16:04] [CMD]: Felix_Flesyah(0) has used the command 'stats' ()
+[10:36:56] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:43:20] password = ""  (string)
+[10:43:20] 
+[10:43:20] Server Plugins
+[10:43:20] --------------
+[10:43:20]  Loading plugin: crashdetect
+[10:43:20]   CrashDetect plugin 4.19.4
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: irc
+[10:43:20]   Failed.
+[10:43:20]  Loading plugin: mysql
+[10:43:20]  >> plugin.mysql: R41-4 successfully loaded.
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: sscanf
+[10:43:20] 
+
+[10:43:20]  ===============================
+
+[10:43:20]       sscanf plugin loaded.     
+
+[10:43:20]          Version:  2.8.3        
+
+[10:43:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:43:20]  ===============================
+
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: streamer
+[10:43:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: CTime
+[10:43:20]   Failed.
+[10:43:20]  Loading plugin: pawncmd
+[10:43:20] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: gvar
+[10:43:20] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: pawn-memory
+[10:43:20] ========================
+[10:43:20] = Memory access plugin =
+[10:43:20] =       Made by BigETI =
+[10:43:20] = Loaded!              =
+[10:43:20] ========================
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: timerfix
+[10:43:20]   >> TimerFix v1.7 successfully loaded.
+[10:43:20]   Loaded.
+[10:43:20]  Loading plugin: nativechecker
+[10:43:20]   Loaded.
+[10:43:20]  Loaded 9 plugins.
+
+[10:43:20] 
+[10:43:20] Ban list
+[10:43:20] --------
+[10:43:20]  Loaded: samp.ban
+[10:43:20] 
+[10:43:20] 
+[10:43:20] Filterscripts
+[10:43:20] ---------------
+[10:43:20]   Loading filterscript 'object.amx'...
+[10:43:20]   Loading filterscript 'Buttons.amx'...
+[10:43:20]   Loading filterscript 'progressbar.amx'...
+[10:43:20]  
+[10:43:20]  
+[10:43:20]  
+[10:43:20]  ======================================= 
+[10:43:20]  |                                     | 
+[10:43:20]  |        YSI version 4.00.0001        | 
+[10:43:20]  |        By Alex "Y_Less" Cole        | 
+[10:43:20]  |                                     | 
+[10:43:20]  ======================================= 
+[10:43:20]  
+[10:43:20] 
+Progress Bar Editor loaded!
+[10:43:20] Use the /bar command to begin editing.
+
+[10:43:20]   Loaded 3 filterscripts.
+
+[10:43:20]  
+[10:43:20]  
+[10:43:20]  
+[10:43:20]  ======================================= 
+[10:43:20]  |                                     | 
+[10:43:20]  |        YSI version 4.00.0001        | 
+[10:43:20]  |        By Alex "Y_Less" Cole        | 
+[10:43:20]  |                                     | 
+[10:43:20]  ======================================= 
+[10:43:20]  
+[10:43:21] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:43:21] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:43:21] MySQL connection is successful.
+[10:43:21] [Object] Number of Dynamic objects loaded: 7465
+[10:43:21] Number of vehicle models: 28
+[10:43:21] [Server] Number of Loaded Data Server...
+[10:43:21] [Server] ServerMoney: 1454115538
+[10:43:21] [Doors] Number of Doors loaded: 24.
+[10:43:21] [FAMILY] Number of Familys loaded: 3.
+[10:43:21] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:43:21] [Dynamic Gas Station] Number of Loaded: 7.
+[10:43:21] [Dynamic ATM] Number of Loaded: 10.
+[10:43:21] [Gates] Number of Gates loaded: 3.
+[10:43:21] [Dynamic Tree] Number of Loaded: 31.
+[10:43:21] [Dynamic Ore] Number of Loaded: 25.
+[10:43:40] [connection] 182.2.39.112:40391 requests connection cookie.
+[10:43:40] [connection] incoming connection: 182.2.39.112:40391 id: 0
+[10:43:41] [join] Felix_Flesyah has joined the server (0:182.2.39.112)
+[10:45:07] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[10:45:07] [P_VEHICLE] Loaded player vehicle from: Felix_Flesyah(0)
+[10:45:13] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[10:45:26] [CMD]: Felix_Flesyah(0) has used the command 'r' ()
+[10:45:35] [CMD]: Felix_Flesyah(0) has used the command 'createhouse' ()
+[10:45:48] [CMD]: Felix_Flesyah(0) has used the command 'createhouse' (250 3)
+[10:46:19] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:46:51] [part] Felix_Flesyah has left the server (0:0)
+Console input: gmx
+[10:48:12] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:48:12] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:48:12] [Gas Station] Number of Saved: 7
+[10:48:12] [Farmer Plant] Number of Saved: 0
+[10:48:24]  
+[10:48:24]  
+[10:48:24]  
+[10:48:24]  ======================================= 
+[10:48:24]  |                                     | 
+[10:48:24]  |        YSI version 4.00.0001        | 
+[10:48:24]  |        By Alex "Y_Less" Cole        | 
+[10:48:24]  |                                     | 
+[10:48:24]  ======================================= 
+[10:48:24]  
+[10:48:25] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:48:25] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:48:25] MySQL connection is successful.
+[10:48:25] [Object] Number of Dynamic objects loaded: 7465
+[10:48:25] Number of vehicle models: 28
+[10:48:25] [Server] Number of Loaded Data Server...
+[10:48:25] [Server] ServerMoney: 1454115788
+[10:48:25] [Doors] Number of Doors loaded: 24.
+[10:48:25] [FAMILY] Number of Familys loaded: 3.
+[10:48:25] [Houses] Number of Loaded: 1.
+[10:48:25] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:48:25] [Dynamic Gas Station] Number of Loaded: 7.
+[10:48:25] [Dynamic ATM] Number of Loaded: 10.
+[10:48:25] [Gates] Number of Gates loaded: 3.
+[10:48:25] [Dynamic Tree] Number of Loaded: 31.
+[10:48:25] [Dynamic Ore] Number of Loaded: 25.
+[10:48:34] [connection] 182.2.39.112:59269 requests connection cookie.
+[10:48:34] [connection] incoming connection: 182.2.39.112:59269 id: 0
+[10:48:35] [join] Felix_Flesyah has joined the server (0:182.2.39.112)
+[10:48:41] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[10:48:41] [P_VEHICLE] Loaded player vehicle from: Felix_Flesyah(0)
+Console input: gmx
+[10:50:05] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:50:05] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:50:05] [Gas Station] Number of Saved: 7
+[10:50:05] [Farmer Plant] Number of Saved: 0
+[10:50:17] Script[gamemodes/GM.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[10:50:17] Failed to load 'gamemodes/GM.amx' script.
+[10:50:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:50:23] password = ""  (string)
+[10:50:23] 
+[10:50:23] Server Plugins
+[10:50:23] --------------
+[10:50:23]  Loading plugin: crashdetect
+[10:50:23]   CrashDetect plugin 4.19.4
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: irc
+[10:50:23]   Failed.
+[10:50:23]  Loading plugin: mysql
+[10:50:23]  >> plugin.mysql: R41-4 successfully loaded.
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: sscanf
+[10:50:23] 
+
+[10:50:23]  ===============================
+
+[10:50:23]       sscanf plugin loaded.     
+
+[10:50:23]          Version:  2.8.3        
+
+[10:50:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:50:23]  ===============================
+
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: streamer
+[10:50:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: CTime
+[10:50:23]   Failed.
+[10:50:23]  Loading plugin: pawncmd
+[10:50:23] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: gvar
+[10:50:23] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: pawn-memory
+[10:50:23] ========================
+[10:50:23] = Memory access plugin =
+[10:50:23] =       Made by BigETI =
+[10:50:23] = Loaded!              =
+[10:50:23] ========================
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: timerfix
+[10:50:23]   >> TimerFix v1.7 successfully loaded.
+[10:50:23]   Loaded.
+[10:50:23]  Loading plugin: nativechecker
+[10:50:23]   Loaded.
+[10:50:23]  Loaded 9 plugins.
+
+[10:50:23] 
+[10:50:23] Ban list
+[10:50:23] --------
+[10:50:23]  Loaded: samp.ban
+[10:50:23] 
+[10:50:23] 
+[10:50:23] Filterscripts
+[10:50:23] ---------------
+[10:50:23]   Loading filterscript 'object.amx'...
+[10:50:23]   Loading filterscript 'Buttons.amx'...
+[10:50:23]   Loading filterscript 'progressbar.amx'...
+[10:50:23]  
+[10:50:23]  
+[10:50:23]  
+[10:50:23]  ======================================= 
+[10:50:23]  |                                     | 
+[10:50:23]  |        YSI version 4.00.0001        | 
+[10:50:23]  |        By Alex "Y_Less" Cole        | 
+[10:50:23]  |                                     | 
+[10:50:23]  ======================================= 
+[10:50:23]  
+[10:50:23] 
+Progress Bar Editor loaded!
+[10:50:23] Use the /bar command to begin editing.
+
+[10:50:23]   Loaded 3 filterscripts.
+
+[10:50:23]  
+[10:50:23]  
+[10:50:23]  
+[10:50:23]  ======================================= 
+[10:50:23]  |                                     | 
+[10:50:23]  |        YSI version 4.00.0001        | 
+[10:50:23]  |        By Alex "Y_Less" Cole        | 
+[10:50:23]  |                                     | 
+[10:50:23]  ======================================= 
+[10:50:23]  
+[10:50:24] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:50:24] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:50:24] MySQL connection is successful.
+[10:50:24] [Object] Number of Dynamic objects loaded: 7465
+[10:50:24] Number of vehicle models: 28
+[10:50:24] [Server] Number of Loaded Data Server...
+[10:50:24] [Server] ServerMoney: 1454115788
+[10:50:24] [Doors] Number of Doors loaded: 24.
+[10:50:24] [FAMILY] Number of Familys loaded: 3.
+[10:50:24] [Houses] Number of Loaded: 1.
+[10:50:24] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:50:24] [Dynamic Gas Station] Number of Loaded: 7.
+[10:50:24] [Dynamic ATM] Number of Loaded: 10.
+[10:50:24] [Gates] Number of Gates loaded: 3.
+[10:50:24] [Dynamic Tree] Number of Loaded: 31.
+[10:50:24] [Dynamic Ore] Number of Loaded: 25.
+[10:51:52] [connection] 182.2.39.112:43406 requests connection cookie.
+[10:51:52] [connection] incoming connection: 182.2.39.112:43406 id: 0
+[10:51:53] [join] Felix_Flesyah has joined the server (0:182.2.39.112)
+[10:52:01] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[10:52:01] [P_VEHICLE] Loaded player vehicle from: Felix_Flesyah(0)
+[10:52:20] [CMD]: Felix_Flesyah(0) has used the command 'edithouse' (0 reset)
+[10:52:45] [CMD]: Felix_Flesyah(0) has used the command 'edithouse' (0 delete)
+[10:52:53] [CMD]: Felix_Flesyah(0) has used the command 'createbisnis' ()
+[10:52:59] [CMD]: Felix_Flesyah(0) has used the command 'createbisnis' (1 1)
+[10:53:21] [CMD]: Felix_Flesyah(0) has used the command 'createhouse' (1 1)
+[10:53:47] AdminCommandLog: logstr detected necessary, escaped from '1' to '1'
+[10:53:47] [CMD]: Felix_Flesyah(0) has used the command 'setmoney' (0 1)
+[10:53:51] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:53:57] [CMD]: Felix_Flesyah(0) has used the command 'setmoney' (0)
+[10:54:01] AdminCommandLog: logstr detected necessary, escaped from '100' to '100'
+[10:54:01] [CMD]: Felix_Flesyah(0) has used the command 'setmoney' (0 100)
+[10:54:04] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:54:13] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:54:37] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 delete)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:05:34] password = ""  (string)
+[21:05:34] 
+[21:05:34] Server Plugins
+[21:05:34] --------------
+[21:05:34]  Loading plugin: crashdetect
+[21:05:34]   CrashDetect plugin 4.19.4
+[21:05:34]   Loaded.
+[21:05:34]  Loading plugin: irc
+[21:05:34]   Failed.
+[21:05:34]  Loading plugin: mysql
+[21:05:35]  >> plugin.mysql: R41-4 successfully loaded.
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: sscanf
+[21:05:35] 
+
+[21:05:35]  ===============================
+
+[21:05:35]       sscanf plugin loaded.     
+
+[21:05:35]          Version:  2.8.3        
+
+[21:05:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:05:35]  ===============================
+
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: streamer
+[21:05:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: CTime
+[21:05:35]   Failed.
+[21:05:35]  Loading plugin: pawncmd
+[21:05:35] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: gvar
+[21:05:35] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: pawn-memory
+[21:05:35] ========================
+[21:05:35] = Memory access plugin =
+[21:05:35] =       Made by BigETI =
+[21:05:35] = Loaded!              =
+[21:05:35] ========================
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: timerfix
+[21:05:35]   >> TimerFix v1.7 successfully loaded.
+[21:05:35]   Loaded.
+[21:05:35]  Loading plugin: nativechecker
+[21:05:35]   Loaded.
+[21:05:35]  Loaded 9 plugins.
+
+[21:05:35] 
+[21:05:35] Ban list
+[21:05:35] --------
+[21:05:35]  Loaded: samp.ban
+[21:05:35] 
+[21:05:35] 
+[21:05:35] Filterscripts
+[21:05:35] ---------------
+[21:05:35]   Loading filterscript 'object.amx'...
+[21:05:35]   Loading filterscript 'Buttons.amx'...
+[21:05:35]   Loading filterscript 'progressbar.amx'...
+[21:05:35]  
+[21:05:35]  
+[21:05:35]  
+[21:05:35]  ======================================= 
+[21:05:35]  |                                     | 
+[21:05:35]  |        YSI version 4.00.0001        | 
+[21:05:35]  |        By Alex "Y_Less" Cole        | 
+[21:05:35]  |                                     | 
+[21:05:35]  ======================================= 
+[21:05:35]  
+[21:05:35] 
+Progress Bar Editor loaded!
+[21:05:35] Use the /bar command to begin editing.
+
+[21:05:35]   Loaded 3 filterscripts.
+
+[21:05:35]  
+[21:05:35]  
+[21:05:35]  
+[21:05:35]  ======================================= 
+[21:05:35]  |                                     | 
+[21:05:35]  |        YSI version 4.00.0001        | 
+[21:05:35]  |        By Alex "Y_Less" Cole        | 
+[21:05:35]  |                                     | 
+[21:05:35]  ======================================= 
+[21:05:35]  
+[21:05:36] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[21:05:36] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[21:05:36] MySQL connection is successful.
+[21:05:36] [Object] Number of Dynamic objects loaded: 7465
+[21:05:36] Number of vehicle models: 28
+[21:05:36] [Server] Number of Loaded Data Server...
+[21:05:36] [Server] ServerMoney: 1454115788
+[21:05:36] [Doors] Number of Doors loaded: 24.
+[21:05:36] [FAMILY] Number of Familys loaded: 3.
+[21:05:36] [Houses] Number of Loaded: 1.
+[21:05:36] [Dynamic Locker Faction] Number of Loaded: 6.
+[21:05:36] [Dynamic Gas Station] Number of Loaded: 7.
+[21:05:36] [Dynamic ATM] Number of Loaded: 10.
+[21:05:36] [Gates] Number of Gates loaded: 3.
+[21:05:36] [Dynamic Tree] Number of Loaded: 31.
+[21:05:36] [Dynamic Ore] Number of Loaded: 25.
+[21:05:56] [connection] 182.2.79.138:58038 requests connection cookie.
+[21:05:56] [connection] incoming connection: 182.2.79.138:58038 id: 0
+[21:05:57] [join] Felix_Flesyah has joined the server (0:182.2.79.138)
+[21:06:07] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[21:06:07] [P_VEHICLE] Loaded player vehicle from: Felix_Flesyah(0)
+[21:06:07] [debug] Run time error 4: "Array index out of bounds"
+[21:06:07] [debug]  Attempted to read/write array element at index 4 in array of size 4
+[21:06:07] [debug] AMX backtrace:
+[21:06:07] [debug] #0 000aec3c in ?? (0) in GM.amx
+[21:06:07] [debug] #1 001c4b98 in public OnPlayerSpawn (0) in GM.amx
+[21:06:43] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:09:26] password = ""  (string)
+[21:09:26] 
+[21:09:26] Server Plugins
+[21:09:26] --------------
+[21:09:26]  Loading plugin: crashdetect
+[21:09:26]   CrashDetect plugin 4.19.4
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: irc
+[21:09:26]   Failed.
+[21:09:26]  Loading plugin: mysql
+[21:09:26]  >> plugin.mysql: R41-4 successfully loaded.
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: sscanf
+[21:09:26] 
+
+[21:09:26]  ===============================
+
+[21:09:26]       sscanf plugin loaded.     
+
+[21:09:26]          Version:  2.8.3        
+
+[21:09:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:09:26]  ===============================
+
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: streamer
+[21:09:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: CTime
+[21:09:26]   Failed.
+[21:09:26]  Loading plugin: pawncmd
+[21:09:26] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: gvar
+[21:09:26] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: pawn-memory
+[21:09:26] ========================
+[21:09:26] = Memory access plugin =
+[21:09:26] =       Made by BigETI =
+[21:09:26] = Loaded!              =
+[21:09:26] ========================
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: timerfix
+[21:09:26]   >> TimerFix v1.7 successfully loaded.
+[21:09:26]   Loaded.
+[21:09:26]  Loading plugin: nativechecker
+[21:09:26]   Loaded.
+[21:09:26]  Loaded 9 plugins.
+
+[21:09:26] 
+[21:09:26] Ban list
+[21:09:26] --------
+[21:09:26]  Loaded: samp.ban
+[21:09:26] 
+[21:09:26] 
+[21:09:26] Filterscripts
+[21:09:26] ---------------
+[21:09:26]   Loading filterscript 'object.amx'...
+[21:09:26]   Loading filterscript 'Buttons.amx'...
+[21:09:26]   Loading filterscript 'progressbar.amx'...
+[21:09:26]  
+[21:09:26]  
+[21:09:26]  
+[21:09:26]  ======================================= 
+[21:09:26]  |                                     | 
+[21:09:26]  |        YSI version 4.00.0001        | 
+[21:09:26]  |        By Alex "Y_Less" Cole        | 
+[21:09:26]  |                                     | 
+[21:09:26]  ======================================= 
+[21:09:26]  
+[21:09:26] 
+Progress Bar Editor loaded!
+[21:09:26] Use the /bar command to begin editing.
+
+[21:09:26]   Loaded 3 filterscripts.
+
+[21:09:26]  
+[21:09:26]  
+[21:09:26]  
+[21:09:26]  ======================================= 
+[21:09:26]  |                                     | 
+[21:09:26]  |        YSI version 4.00.0001        | 
+[21:09:26]  |        By Alex "Y_Less" Cole        | 
+[21:09:26]  |                                     | 
+[21:09:26]  ======================================= 
+[21:09:26]  
+[21:09:27] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[21:09:27] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[21:09:27] MySQL connection is successful.
+[21:09:27] [Object] Number of Dynamic objects loaded: 7465
+[21:09:27] Number of vehicle models: 28
+[21:09:27] [Server] Number of Loaded Data Server...
+[21:09:27] [Server] ServerMoney: 1454115788
+[21:09:27] [Doors] Number of Doors loaded: 24.
+[21:09:27] [FAMILY] Number of Familys loaded: 3.
+[21:09:27] [Houses] Number of Loaded: 1.
+[21:09:27] [Dynamic Locker Faction] Number of Loaded: 6.
+[21:09:27] [Dynamic Gas Station] Number of Loaded: 7.
+[21:09:27] [Dynamic ATM] Number of Loaded: 10.
+[21:09:27] [Gates] Number of Gates loaded: 3.
+[21:09:27] [Dynamic Tree] Number of Loaded: 31.
+[21:09:27] [Dynamic Ore] Number of Loaded: 25.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:29:16] password = ""  (string)
+[21:29:16] 
+[21:29:16] Server Plugins
+[21:29:16] --------------
+[21:29:16]  Loading plugin: crashdetect
+[21:29:16]   CrashDetect plugin 4.19.4
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: irc
+[21:29:16]   Failed.
+[21:29:16]  Loading plugin: mysql
+[21:29:16]  >> plugin.mysql: R41-4 successfully loaded.
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: sscanf
+[21:29:16] 
+
+[21:29:16]  ===============================
+
+[21:29:16]       sscanf plugin loaded.     
+
+[21:29:16]          Version:  2.8.3        
+
+[21:29:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:29:16]  ===============================
+
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: streamer
+[21:29:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: CTime
+[21:29:16]   Failed.
+[21:29:16]  Loading plugin: pawncmd
+[21:29:16] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: gvar
+[21:29:16] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: pawn-memory
+[21:29:16] ========================
+[21:29:16] = Memory access plugin =
+[21:29:16] =       Made by BigETI =
+[21:29:16] = Loaded!              =
+[21:29:16] ========================
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: timerfix
+[21:29:16]   >> TimerFix v1.7 successfully loaded.
+[21:29:16]   Loaded.
+[21:29:16]  Loading plugin: nativechecker
+[21:29:16]   Loaded.
+[21:29:16]  Loaded 9 plugins.
+
+[21:29:16] 
+[21:29:16] Ban list
+[21:29:16] --------
+[21:29:16]  Loaded: samp.ban
+[21:29:16] 
+[21:29:16] 
+[21:29:16] Filterscripts
+[21:29:16] ---------------
+[21:29:16]   Loading filterscript 'object.amx'...
+[21:29:16]   Loading filterscript 'Buttons.amx'...
+[21:29:16]   Loading filterscript 'progressbar.amx'...
+[21:29:16]  
+[21:29:16]  
+[21:29:16]  
+[21:29:16]  ======================================= 
+[21:29:16]  |                                     | 
+[21:29:16]  |        YSI version 4.00.0001        | 
+[21:29:16]  |        By Alex "Y_Less" Cole        | 
+[21:29:16]  |                                     | 
+[21:29:16]  ======================================= 
+[21:29:16]  
+[21:29:16] 
+Progress Bar Editor loaded!
+[21:29:16] Use the /bar command to begin editing.
+
+[21:29:16]   Loaded 3 filterscripts.
+
+[21:29:16]  
+[21:29:16]  
+[21:29:16]  
+[21:29:16]  ======================================= 
+[21:29:16]  |                                     | 
+[21:29:16]  |        YSI version 4.00.0001        | 
+[21:29:16]  |        By Alex "Y_Less" Cole        | 
+[21:29:16]  |                                     | 
+[21:29:16]  ======================================= 
+[21:29:16]  
+[21:29:17] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[21:29:17] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[21:29:17] MySQL connection is successful.
+[21:29:17] [Object] Number of Dynamic objects loaded: 7465
+[21:29:17] Number of vehicle models: 28
+[21:29:17] [Server] Number of Loaded Data Server...
+[21:29:17] [Server] ServerMoney: 1454115788
+[21:29:17] [Doors] Number of Doors loaded: 24.
+[21:29:17] [FAMILY] Number of Familys loaded: 3.
+[21:29:17] [Houses] Number of Loaded: 1.
+[21:29:17] [Dynamic Locker Faction] Number of Loaded: 6.
+[21:29:17] [Dynamic Gas Station] Number of Loaded: 7.
+[21:29:17] [Dynamic ATM] Number of Loaded: 10.
+[21:29:17] [Gates] Number of Gates loaded: 3.
+[21:29:17] [Dynamic Tree] Number of Loaded: 31.
+[21:29:17] [Dynamic Ore] Number of Loaded: 25.
+[21:29:37] [connection] 182.2.44.54:45338 requests connection cookie.
+[21:29:37] [connection] incoming connection: 182.2.44.54:45338 id: 0
+[21:29:38] [join] Felix_Flesyah has joined the server (0:182.2.44.54)
+[21:29:50] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[21:29:50] [P_VEHICLE] Loaded player vehicle from: Felix_Flesyah(0)
+[21:30:23] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:02:46] password = ""  (string)
+[08:02:46] 
+[08:02:46] Server Plugins
+[08:02:46] --------------
+[08:02:46]  Loading plugin: crashdetect
+[08:02:46]   CrashDetect plugin 4.19.4
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: irc
+[08:02:46]   Failed.
+[08:02:46]  Loading plugin: mysql
+[08:02:46]  >> plugin.mysql: R41-4 successfully loaded.
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: sscanf
+[08:02:46] 
+
+[08:02:46]  ===============================
+
+[08:02:46]       sscanf plugin loaded.     
+
+[08:02:46]          Version:  2.8.3        
+
+[08:02:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:02:46]  ===============================
+
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: streamer
+[08:02:46] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: CTime
+[08:02:46]   Failed.
+[08:02:46]  Loading plugin: pawncmd
+[08:02:46] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: gvar
+[08:02:46] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: pawn-memory
+[08:02:46] ========================
+[08:02:46] = Memory access plugin =
+[08:02:46] =       Made by BigETI =
+[08:02:46] = Loaded!              =
+[08:02:46] ========================
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: timerfix
+[08:02:46]   >> TimerFix v1.7 successfully loaded.
+[08:02:46]   Loaded.
+[08:02:46]  Loading plugin: nativechecker
+[08:02:46]   Loaded.
+[08:02:46]  Loaded 9 plugins.
+
+[08:02:46] 
+[08:02:46] Ban list
+[08:02:46] --------
+[08:02:46]  Loaded: samp.ban
+[08:02:46] 
+[08:02:46] 
+[08:02:46] Filterscripts
+[08:02:46] ---------------
+[08:02:46]   Loading filterscript 'object.amx'...
+[08:02:47]   Loading filterscript 'Buttons.amx'...
+[08:02:47]   Loading filterscript 'progressbar.amx'...
+[08:02:47]  
+[08:02:47]  
+[08:02:47]  
+[08:02:47]  ======================================= 
+[08:02:47]  |                                     | 
+[08:02:47]  |        YSI version 4.00.0001        | 
+[08:02:47]  |        By Alex "Y_Less" Cole        | 
+[08:02:47]  |                                     | 
+[08:02:47]  ======================================= 
+[08:02:47]  
+[08:02:47] 
+Progress Bar Editor loaded!
+[08:02:47] Use the /bar command to begin editing.
+
+[08:02:47]   Loaded 3 filterscripts.
+
+[08:02:47]  
+[08:02:47]  
+[08:02:47]  
+[08:02:47]  ======================================= 
+[08:02:47]  |                                     | 
+[08:02:47]  |        YSI version 4.00.0001        | 
+[08:02:47]  |        By Alex "Y_Less" Cole        | 
+[08:02:47]  |                                     | 
+[08:02:47]  ======================================= 
+[08:02:47]  
+[08:02:49] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[08:02:49] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[08:02:49] MySQL connection failed. Server is shutting down.
+[08:02:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:33:53] password = ""  (string)
+[09:33:53] 
+[09:33:53] Server Plugins
+[09:33:53] --------------
+[09:33:53]  Loading plugin: crashdetect
+[09:33:53]   CrashDetect plugin 4.19.4
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: irc
+[09:33:53]   Failed.
+[09:33:53]  Loading plugin: mysql
+[09:33:53]  >> plugin.mysql: R41-4 successfully loaded.
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: sscanf
+[09:33:53] 
+
+[09:33:53]  ===============================
+
+[09:33:53]       sscanf plugin loaded.     
+
+[09:33:53]          Version:  2.8.3        
+
+[09:33:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:33:53]  ===============================
+
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: streamer
+[09:33:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: CTime
+[09:33:53]   Failed.
+[09:33:53]  Loading plugin: pawncmd
+[09:33:53] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: gvar
+[09:33:53] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: pawn-memory
+[09:33:53] ========================
+[09:33:53] = Memory access plugin =
+[09:33:53] =       Made by BigETI =
+[09:33:53] = Loaded!              =
+[09:33:53] ========================
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: timerfix
+[09:33:53]   >> TimerFix v1.7 successfully loaded.
+[09:33:53]   Loaded.
+[09:33:53]  Loading plugin: nativechecker
+[09:33:53]   Loaded.
+[09:33:53]  Loaded 9 plugins.
+
+[09:33:53] 
+[09:33:53] Ban list
+[09:33:53] --------
+[09:33:53]  Loaded: samp.ban
+[09:33:53] 
+[09:33:53] 
+[09:33:53] Filterscripts
+[09:33:53] ---------------
+[09:33:53]   Loading filterscript 'object.amx'...
+[09:33:53]   Loading filterscript 'Buttons.amx'...
+[09:33:53]   Loading filterscript 'progressbar.amx'...
+[09:33:53]  
+[09:33:53]  
+[09:33:53]  
+[09:33:53]  ======================================= 
+[09:33:53]  |                                     | 
+[09:33:53]  |        YSI version 4.00.0001        | 
+[09:33:53]  |        By Alex "Y_Less" Cole        | 
+[09:33:53]  |                                     | 
+[09:33:53]  ======================================= 
+[09:33:53]  
+[09:33:53] 
+Progress Bar Editor loaded!
+[09:33:53] Use the /bar command to begin editing.
+
+[09:33:53]   Loaded 3 filterscripts.
+
+[09:33:53]  
+[09:33:53]  
+[09:33:53]  
+[09:33:53]  ======================================= 
+[09:33:53]  |                                     | 
+[09:33:53]  |        YSI version 4.00.0001        | 
+[09:33:53]  |        By Alex "Y_Less" Cole        | 
+[09:33:53]  |                                     | 
+[09:33:53]  ======================================= 
+[09:33:53]  
+[09:33:56] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:33:56] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:33:56] MySQL connection is successful.
+[09:33:56] [Object] Number of Dynamic objects loaded: 7465
+[09:33:56] Number of vehicle models: 28
+[09:33:56] [Server] Number of Loaded Data Server...
+[09:33:56] [Server] ServerMoney: 1454115538
+[09:33:56] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:33:56] [Dynamic ATM] Number of Loaded: 10.
+[09:33:56] [Gates] Number of Gates loaded: 3.
+[09:33:56] [Dynamic Vouchers] Number of Loaded: 1.
+[09:33:56] [Dynamic Tree] Number of Loaded: 31.
+[09:33:56] [Dynamic Ore] Number of Loaded: 25.
+[09:34:17] [connection] 182.2.47.60:55798 requests connection cookie.
+[09:34:18] [connection] incoming connection: 182.2.47.60:55798 id: 0
+[09:34:19] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+Console input: gmx
+[09:36:37] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:36:37] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:36:37] [Gas Station] Number of Saved: 0
+[09:36:37] [Farmer Plant] Number of Saved: 0
+[09:36:49]  
+[09:36:49]  
+[09:36:49]  
+[09:36:49]  ======================================= 
+[09:36:49]  |                                     | 
+[09:36:49]  |        YSI version 4.00.0001        | 
+[09:36:49]  |        By Alex "Y_Less" Cole        | 
+[09:36:49]  |                                     | 
+[09:36:49]  ======================================= 
+[09:36:49]  
+[09:36:51] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:36:51] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:36:51] MySQL connection is successful.
+[09:36:51] [Object] Number of Dynamic objects loaded: 7465
+[09:36:51] Number of vehicle models: 28
+[09:36:51] [Server] Number of Loaded Data Server...
+[09:36:51] [Server] ServerMoney: 1454115538
+[09:36:51] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:36:51] [Dynamic ATM] Number of Loaded: 10.
+[09:36:51] [Gates] Number of Gates loaded: 3.
+[09:36:51] [Dynamic Vouchers] Number of Loaded: 1.
+[09:36:51] [Dynamic Tree] Number of Loaded: 31.
+[09:36:51] [Dynamic Ore] Number of Loaded: 25.
+[09:36:59] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:37:13] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[09:37:34] [CMD]: Felix_Flesyah(0) has used the command 'stats' ()
+Console input: gmx
+[09:39:27] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:39:27] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:39:27] [Gas Station] Number of Saved: 0
+[09:39:27] [Farmer Plant] Number of Saved: 0
+[09:39:39]  
+[09:39:39]  
+[09:39:39]  
+[09:39:39]  ======================================= 
+[09:39:39]  |                                     | 
+[09:39:39]  |        YSI version 4.00.0001        | 
+[09:39:39]  |        By Alex "Y_Less" Cole        | 
+[09:39:39]  |                                     | 
+[09:39:39]  ======================================= 
+[09:39:39]  
+[09:39:41] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:39:41] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:39:41] MySQL connection is successful.
+[09:39:41] [Object] Number of Dynamic objects loaded: 7465
+[09:39:41] Number of vehicle models: 28
+[09:39:41] [Server] Number of Loaded Data Server...
+[09:39:41] [Server] ServerMoney: 1454115538
+[09:39:41] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:39:41] [Dynamic ATM] Number of Loaded: 10.
+[09:39:41] [Gates] Number of Gates loaded: 3.
+[09:39:41] [Dynamic Vouchers] Number of Loaded: 1.
+[09:39:41] [Dynamic Tree] Number of Loaded: 31.
+[09:39:41] [Dynamic Ore] Number of Loaded: 25.
+[09:39:47] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:39:51] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[09:40:17] [CMD]: Felix_Flesyah(0) has used the command 'ahelp' ()
+[09:40:32] [part] Felix_Flesyah has left the server (0:0)
+[09:40:50] [connection] 182.2.47.60:43163 requests connection cookie.
+[09:40:51] [connection] incoming connection: 182.2.47.60:43163 id: 0
+[09:40:51] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[09:41:04] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:41:13] [CMD]: Felix_Flesyah(0) has used the command 'ahelp' ()
+[09:41:26] [CMD]: Felix_Flesyah(0) has used the command 'setadminname' (0 Felix)
+[09:41:34] [CMD]: Felix_Flesyah(0) has used the command 'creategate' ()
+[09:41:39] [CMD]: Felix_Flesyah(0) has used the command 'creategate' (567)
+[09:41:50] [part] Felix_Flesyah has left the server (0:0)
+[09:42:05] [connection] 182.2.47.60:41494 requests connection cookie.
+[09:42:06] [connection] incoming connection: 182.2.47.60:41494 id: 0
+[09:42:07] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[09:42:14] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:42:25] [part] Felix_Flesyah has left the server (0:0)
+[09:42:41] [connection] 182.2.47.60:37832 requests connection cookie.
+[09:42:42] [connection] incoming connection: 182.2.47.60:37832 id: 0
+[09:42:42] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[09:42:49] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:42:59] [part] Felix_Flesyah has left the server (0:0)
+[09:43:10] [connection] 182.2.47.60:57512 requests connection cookie.
+[09:43:11] [connection] incoming connection: 182.2.47.60:57512 id: 0
+[09:43:11] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[09:43:18] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:43:28] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:43:29] password = ""  (string)
+[09:43:29] 
+[09:43:29] Server Plugins
+[09:43:29] --------------
+[09:43:29]  Loading plugin: crashdetect
+[09:43:29]   CrashDetect plugin 4.19.4
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: irc
+[09:43:29]   Failed.
+[09:43:29]  Loading plugin: mysql
+[09:43:29]  >> plugin.mysql: R41-4 successfully loaded.
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: sscanf
+[09:43:29] 
+
+[09:43:29]  ===============================
+
+[09:43:29]       sscanf plugin loaded.     
+
+[09:43:29]          Version:  2.8.3        
+
+[09:43:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:43:29]  ===============================
+
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: streamer
+[09:43:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: CTime
+[09:43:29]   Failed.
+[09:43:29]  Loading plugin: pawncmd
+[09:43:29] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: gvar
+[09:43:29] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: pawn-memory
+[09:43:29] ========================
+[09:43:29] = Memory access plugin =
+[09:43:29] =       Made by BigETI =
+[09:43:29] = Loaded!              =
+[09:43:29] ========================
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: timerfix
+[09:43:29]   >> TimerFix v1.7 successfully loaded.
+[09:43:29]   Loaded.
+[09:43:29]  Loading plugin: nativechecker
+[09:43:29]   Loaded.
+[09:43:29]  Loaded 9 plugins.
+
+[09:43:29] 
+[09:43:29] Ban list
+[09:43:29] --------
+[09:43:29]  Loaded: samp.ban
+[09:43:29] 
+[09:43:29] 
+[09:43:29] Filterscripts
+[09:43:29] ---------------
+[09:43:29]   Loading filterscript 'object.amx'...
+[09:43:29]   Loading filterscript 'Buttons.amx'...
+[09:43:30]   Loading filterscript 'progressbar.amx'...
+[09:43:30]  
+[09:43:30]  
+[09:43:30]  
+[09:43:30]  ======================================= 
+[09:43:30]  |                                     | 
+[09:43:30]  |        YSI version 4.00.0001        | 
+[09:43:30]  |        By Alex "Y_Less" Cole        | 
+[09:43:30]  |                                     | 
+[09:43:30]  ======================================= 
+[09:43:30]  
+[09:43:30] 
+Progress Bar Editor loaded!
+[09:43:30] Use the /bar command to begin editing.
+
+[09:43:30]   Loaded 3 filterscripts.
+
+[09:43:30]  
+[09:43:30]  
+[09:43:30]  
+[09:43:30]  ======================================= 
+[09:43:30]  |                                     | 
+[09:43:30]  |        YSI version 4.00.0001        | 
+[09:43:30]  |        By Alex "Y_Less" Cole        | 
+[09:43:30]  |                                     | 
+[09:43:30]  ======================================= 
+[09:43:30]  
+[09:43:32] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:43:32] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:43:32] MySQL connection is successful.
+[09:43:32] [Object] Number of Dynamic objects loaded: 7465
+[09:43:32] Number of vehicle models: 28
+[09:43:32] [Server] Number of Loaded Data Server...
+[09:43:32] [Server] ServerMoney: 1454115538
+[09:43:32] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:43:32] [Dynamic ATM] Number of Loaded: 10.
+[09:43:32] [Gates] Number of Gates loaded: 3.
+[09:43:32] [Dynamic Vouchers] Number of Loaded: 1.
+[09:43:32] [Dynamic Tree] Number of Loaded: 31.
+[09:43:32] [Dynamic Ore] Number of Loaded: 25.
+[09:43:37] [connection] 182.2.47.60:41884 requests connection cookie.
+[09:43:38] [connection] incoming connection: 182.2.47.60:41884 id: 0
+[09:43:39] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[09:43:46] [LOGIN] Felix_Flesyah(0) has successfully login with password(fatah123)
+[09:44:00] [CMD]: Felix_Flesyah(0) has used the command 'creategate' (980)
+[09:44:42] [CMD]: Felix_Flesyah(0) has used the command 'gedit' ()
+[09:44:49] [CMD]: Felix_Flesyah(0) has used the command 'gedit' (3 open)
+[09:45:26] [CMD]: Felix_Flesyah(0) has used the command 'gedit' (3 close)
+[09:45:41] [CMD]: Felix_Flesyah(0) has used the command 'gate' ()
+[09:45:46] [CMD]: Felix_Flesyah(0) has used the command 'gate' ()
+[09:45:57] [CMD]: Felix_Flesyah(0) has used the command 'gedit' (3 delete)
+[09:46:05] [CMD]: Felix_Flesyah(0) has used the command 'createhouse' (3 3)
+[09:46:21] [CMD]: Felix_Flesyah(0) has used the command 'createbisnis' ()
+[09:46:25] [CMD]: Felix_Flesyah(0) has used the command 'createbisnis' (3 3)
+[09:51:40] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[09:59:28] [CMD]: Felix_Flesyah(0) has used the command 'bm' ()
+[09:59:31] [CMD]: Felix_Flesyah(0) has used the command 'help' ()
+[09:59:43] [CMD]: Felix_Flesyah(0) has used the command 'mybis' ()
+[09:59:51] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' ()
+[09:59:54] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0)
+[10:00:03] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 owner 11)
+[10:00:19] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:06:25] password = ""  (string)
+[10:06:25] 
+[10:06:25] Server Plugins
+[10:06:25] --------------
+[10:06:25]  Loading plugin: crashdetect
+[10:06:25]   CrashDetect plugin 4.19.4
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: irc
+[10:06:25]   Failed.
+[10:06:25]  Loading plugin: mysql
+[10:06:25]  >> plugin.mysql: R41-4 successfully loaded.
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: sscanf
+[10:06:25] 
+
+[10:06:25]  ===============================
+
+[10:06:25]       sscanf plugin loaded.     
+
+[10:06:25]          Version:  2.8.3        
+
+[10:06:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:06:25]  ===============================
+
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: streamer
+[10:06:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: CTime
+[10:06:25]   Failed.
+[10:06:25]  Loading plugin: pawncmd
+[10:06:25] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: gvar
+[10:06:25] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: pawn-memory
+[10:06:25] ========================
+[10:06:25] = Memory access plugin =
+[10:06:25] =       Made by BigETI =
+[10:06:25] = Loaded!              =
+[10:06:25] ========================
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: timerfix
+[10:06:25]   >> TimerFix v1.7 successfully loaded.
+[10:06:25]   Loaded.
+[10:06:25]  Loading plugin: nativechecker
+[10:06:25]   Loaded.
+[10:06:25]  Loaded 9 plugins.
+
+[10:06:25] 
+[10:06:25] Ban list
+[10:06:25] --------
+[10:06:25]  Loaded: samp.ban
+[10:06:25] 
+[10:06:25] 
+[10:06:25] Filterscripts
+[10:06:25] ---------------
+[10:06:25]   Loading filterscript 'object.amx'...
+[10:06:25]   Loading filterscript 'Buttons.amx'...
+[10:06:25]   Loading filterscript 'progressbar.amx'...
+[10:06:25]  
+[10:06:25]  
+[10:06:25]  
+[10:06:25]  ======================================= 
+[10:06:25]  |                                     | 
+[10:06:25]  |        YSI version 4.00.0001        | 
+[10:06:25]  |        By Alex "Y_Less" Cole        | 
+[10:06:25]  |                                     | 
+[10:06:25]  ======================================= 
+[10:06:25]  
+[10:06:25] 
+Progress Bar Editor loaded!
+[10:06:25] Use the /bar command to begin editing.
+
+[10:06:25]   Loaded 3 filterscripts.
+
+[10:06:25] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[10:06:25] [Pawn.CMD] DoAmxLoad: Mismatch between the plugin (332) and include (0) versions
+[10:06:25]    Error: Function not registered: 'PC_Init'
+[10:06:25]    Error: Function not registered: 'PC_RegAlias'
+[10:06:25] [debug] Run time error 19: "File or function is not found"
+[10:06:25] [debug]  PC_Init
+[10:06:25] [debug]  PC_RegAlias
+[10:06:25] [debug] Run time error 19: "File or function is not found"
+[10:06:25] [debug]  PC_Init
+[10:06:25] [debug]  PC_RegAlias
+[10:06:25] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[10:06:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:06:30] password = ""  (string)
+[10:06:30] 
+[10:06:30] Server Plugins
+[10:06:30] --------------
+[10:06:30]  Loading plugin: crashdetect
+[10:06:30]   CrashDetect plugin 4.19.4
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: irc
+[10:06:30]   Failed.
+[10:06:30]  Loading plugin: mysql
+[10:06:30]  >> plugin.mysql: R41-4 successfully loaded.
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: sscanf
+[10:06:30] 
+
+[10:06:30]  ===============================
+
+[10:06:30]       sscanf plugin loaded.     
+
+[10:06:30]          Version:  2.8.3        
+
+[10:06:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:06:30]  ===============================
+
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: streamer
+[10:06:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: CTime
+[10:06:30]   Failed.
+[10:06:30]  Loading plugin: pawncmd
+[10:06:30] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: gvar
+[10:06:30] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: pawn-memory
+[10:06:30] ========================
+[10:06:30] = Memory access plugin =
+[10:06:30] =       Made by BigETI =
+[10:06:30] = Loaded!              =
+[10:06:30] ========================
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: timerfix
+[10:06:30]   >> TimerFix v1.7 successfully loaded.
+[10:06:30]   Loaded.
+[10:06:30]  Loading plugin: nativechecker
+[10:06:30]   Loaded.
+[10:06:30]  Loaded 9 plugins.
+
+[10:06:30] 
+[10:06:30] Ban list
+[10:06:30] --------
+[10:06:30]  Loaded: samp.ban
+[10:06:30] 
+[10:06:30] 
+[10:06:30] Filterscripts
+[10:06:30] ---------------
+[10:06:30]   Loading filterscript 'object.amx'...
+[10:06:30]   Loading filterscript 'Buttons.amx'...
+[10:06:30]   Loading filterscript 'progressbar.amx'...
+[10:06:30]  
+[10:06:30]  
+[10:06:30]  
+[10:06:30]  ======================================= 
+[10:06:30]  |                                     | 
+[10:06:30]  |        YSI version 4.00.0001        | 
+[10:06:30]  |        By Alex "Y_Less" Cole        | 
+[10:06:30]  |                                     | 
+[10:06:30]  ======================================= 
+[10:06:30]  
+[10:06:30] 
+Progress Bar Editor loaded!
+[10:06:30] Use the /bar command to begin editing.
+
+[10:06:30]   Loaded 3 filterscripts.
+
+[10:06:30]  
+[10:06:30]  
+[10:06:30]  
+[10:06:30]  ======================================= 
+[10:06:30]  |                                     | 
+[10:06:30]  |        YSI version 4.00.0001        | 
+[10:06:30]  |        By Alex "Y_Less" Cole        | 
+[10:06:30]  |                                     | 
+[10:06:30]  ======================================= 
+[10:06:30]  
+[10:06:32] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:06:32] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:06:32] MySQL connection is successful.
+[10:06:32] [Object] Number of Dynamic objects loaded: 7465
+[10:06:32] Number of vehicle models: 28
+[10:06:32] [Server] Number of Loaded Data Server...
+[10:06:32] [Server] ServerMoney: 1454115538
+[10:06:32] [Houses] Number of Loaded: 1.
+[10:06:32] [Bisnis] Number of Loaded: 1.
+[10:06:32] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:06:32] [Dynamic ATM] Number of Loaded: 10.
+[10:06:32] [Gates] Number of Gates loaded: 3.
+[10:06:32] [Dynamic Vouchers] Number of Loaded: 1.
+[10:06:32] [Dynamic Tree] Number of Loaded: 31.
+[10:06:32] [Dynamic Ore] Number of Loaded: 25.
+[10:06:46] [connection] 182.2.47.60:40621 requests connection cookie.
+[10:06:47] [connection] incoming connection: 182.2.47.60:40621 id: 0
+[10:06:48] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[10:07:34] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 -)
+[10:07:40] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' ()
+[10:07:46] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 owner -)
+Console input: gmx
+[10:10:00] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:10:00] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:10:00] [Gas Station] Number of Saved: 0
+[10:10:00] [Farmer Plant] Number of Saved: 0
+[10:10:12]  
+[10:10:12]  
+[10:10:12]  
+[10:10:12]  ======================================= 
+[10:10:12]  |                                     | 
+[10:10:12]  |        YSI version 4.00.0001        | 
+[10:10:12]  |        By Alex "Y_Less" Cole        | 
+[10:10:12]  |                                     | 
+[10:10:12]  ======================================= 
+[10:10:12]  
+[10:10:14] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:10:14] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:10:14] MySQL connection is successful.
+[10:10:14] [Object] Number of Dynamic objects loaded: 7465
+[10:10:14] Number of vehicle models: 28
+[10:10:14] [Server] Number of Loaded Data Server...
+[10:10:14] [Server] ServerMoney: 1454115538
+[10:10:14] [Houses] Number of Loaded: 1.
+[10:10:14] [Bisnis] Number of Loaded: 1.
+[10:10:14] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:10:14] [Dynamic ATM] Number of Loaded: 10.
+[10:10:14] [Gates] Number of Gates loaded: 3.
+[10:10:14] [Dynamic Vouchers] Number of Loaded: 1.
+[10:10:14] [Dynamic Tree] Number of Loaded: 31.
+[10:10:14] [Dynamic Ore] Number of Loaded: 25.
+[10:10:50] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:10:52] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:10:59] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:11:15] [CMD]: Felix_Flesyah(0) has used the command 'edithouse' (0 dele6e)
+[10:11:18] [CMD]: Felix_Flesyah(0) has used the command 'edithouse' (0 delete)
+[10:11:22] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+Console input: gmx
+[10:14:40] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:14:40] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:14:40] [Gas Station] Number of Saved: 0
+[10:14:40] [Farmer Plant] Number of Saved: 0
+[10:14:52]  
+[10:14:52]  
+[10:14:52]  
+[10:14:52]  ======================================= 
+[10:14:52]  |                                     | 
+[10:14:52]  |        YSI version 4.00.0001        | 
+[10:14:52]  |        By Alex "Y_Less" Cole        | 
+[10:14:52]  |                                     | 
+[10:14:52]  ======================================= 
+[10:14:52]  
+[10:14:54] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:14:54] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:14:54] MySQL connection is successful.
+[10:14:54] [Object] Number of Dynamic objects loaded: 7465
+[10:14:54] Number of vehicle models: 28
+[10:14:54] [Server] Number of Loaded Data Server...
+[10:14:54] [Server] ServerMoney: 1454115535
+[10:14:54] [Bisnis] Number of Loaded: 1.
+[10:14:54] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:14:54] [Dynamic ATM] Number of Loaded: 10.
+[10:14:54] [Gates] Number of Gates loaded: 3.
+[10:14:54] [Dynamic Vouchers] Number of Loaded: 1.
+[10:14:54] [Dynamic Tree] Number of Loaded: 31.
+[10:14:54] [Dynamic Ore] Number of Loaded: 25.
+[10:15:20] [CMD]: Felix_Flesyah(0) has used the command 'createhouse' (1 3)
+[10:15:37] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:33:15] [part] Felix_Flesyah has left the server (0:0)
+[11:04:50] [connection] 182.2.47.60:59099 requests connection cookie.
+[11:04:51] [connection] incoming connection: 182.2.47.60:59099 id: 0
+[11:04:52] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[11:06:35] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[11:23:16] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:26:00] password = ""  (string)
+[11:26:00] 
+[11:26:00] Server Plugins
+[11:26:00] --------------
+[11:26:00]  Loading plugin: crashdetect
+[11:26:00]   CrashDetect plugin 4.19.4
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: irc
+[11:26:00]   Failed.
+[11:26:00]  Loading plugin: mysql
+[11:26:00]  >> plugin.mysql: R41-4 successfully loaded.
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: sscanf
+[11:26:00] 
+
+[11:26:00]  ===============================
+
+[11:26:00]       sscanf plugin loaded.     
+
+[11:26:00]          Version:  2.8.3        
+
+[11:26:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:26:00]  ===============================
+
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: streamer
+[11:26:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: CTime
+[11:26:00]   Failed.
+[11:26:00]  Loading plugin: pawncmd
+[11:26:00] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: gvar
+[11:26:00] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: pawn-memory
+[11:26:00] ========================
+[11:26:00] = Memory access plugin =
+[11:26:00] =       Made by BigETI =
+[11:26:00] = Loaded!              =
+[11:26:00] ========================
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: timerfix
+[11:26:00]   >> TimerFix v1.7 successfully loaded.
+[11:26:00]   Loaded.
+[11:26:00]  Loading plugin: nativechecker
+[11:26:00]   Loaded.
+[11:26:00]  Loaded 9 plugins.
+
+[11:26:00] 
+[11:26:00] Ban list
+[11:26:00] --------
+[11:26:00]  Loaded: samp.ban
+[11:26:00] 
+[11:26:00] 
+[11:26:00] Filterscripts
+[11:26:00] ---------------
+[11:26:00]   Loading filterscript 'object.amx'...
+[11:26:00]   Loading filterscript 'Buttons.amx'...
+[11:26:00]   Loading filterscript 'progressbar.amx'...
+[11:26:00]  
+[11:26:00]  
+[11:26:00]  
+[11:26:00]  ======================================= 
+[11:26:00]  |                                     | 
+[11:26:00]  |        YSI version 4.00.0001        | 
+[11:26:00]  |        By Alex "Y_Less" Cole        | 
+[11:26:00]  |                                     | 
+[11:26:00]  ======================================= 
+[11:26:00]  
+[11:26:00] 
+Progress Bar Editor loaded!
+[11:26:00] Use the /bar command to begin editing.
+
+[11:26:00]   Loaded 3 filterscripts.
+
+[11:26:00] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[11:26:00] [Pawn.CMD] DoAmxLoad: Mismatch between the plugin (332) and include (0) versions
+[11:26:00]    Error: Function not registered: 'PC_Init'
+[11:26:00]    Error: Function not registered: 'PC_RegAlias'
+[11:26:00] [debug] Run time error 19: "File or function is not found"
+[11:26:00] [debug]  PC_Init
+[11:26:00] [debug]  PC_RegAlias
+[11:26:00] [debug] Run time error 19: "File or function is not found"
+[11:26:00] [debug]  PC_Init
+[11:26:00] [debug]  PC_RegAlias
+[11:26:00] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[11:26:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:26:08] password = ""  (string)
+[11:26:08] 
+[11:26:08] Server Plugins
+[11:26:08] --------------
+[11:26:08]  Loading plugin: crashdetect
+[11:26:08]   CrashDetect plugin 4.19.4
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: irc
+[11:26:08]   Failed.
+[11:26:08]  Loading plugin: mysql
+[11:26:08]  >> plugin.mysql: R41-4 successfully loaded.
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: sscanf
+[11:26:08] 
+
+[11:26:08]  ===============================
+
+[11:26:08]       sscanf plugin loaded.     
+
+[11:26:08]          Version:  2.8.3        
+
+[11:26:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:26:08]  ===============================
+
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: streamer
+[11:26:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: CTime
+[11:26:08]   Failed.
+[11:26:08]  Loading plugin: pawncmd
+[11:26:08] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: gvar
+[11:26:08] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: pawn-memory
+[11:26:08] ========================
+[11:26:08] = Memory access plugin =
+[11:26:08] =       Made by BigETI =
+[11:26:08] = Loaded!              =
+[11:26:08] ========================
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: timerfix
+[11:26:08]   >> TimerFix v1.7 successfully loaded.
+[11:26:08]   Loaded.
+[11:26:08]  Loading plugin: nativechecker
+[11:26:08]   Loaded.
+[11:26:08]  Loaded 9 plugins.
+
+[11:26:08] 
+[11:26:08] Ban list
+[11:26:08] --------
+[11:26:08]  Loaded: samp.ban
+[11:26:08] 
+[11:26:08] 
+[11:26:08] Filterscripts
+[11:26:08] ---------------
+[11:26:08]   Loading filterscript 'object.amx'...
+[11:26:08]   Loading filterscript 'Buttons.amx'...
+[11:26:08]   Loading filterscript 'progressbar.amx'...
+[11:26:08]  
+[11:26:08]  
+[11:26:08]  
+[11:26:08]  ======================================= 
+[11:26:08]  |                                     | 
+[11:26:08]  |        YSI version 4.00.0001        | 
+[11:26:08]  |        By Alex "Y_Less" Cole        | 
+[11:26:08]  |                                     | 
+[11:26:08]  ======================================= 
+[11:26:08]  
+[11:26:08] 
+Progress Bar Editor loaded!
+[11:26:08] Use the /bar command to begin editing.
+
+[11:26:08]   Loaded 3 filterscripts.
+
+[11:26:08]  
+[11:26:08]  
+[11:26:08]  
+[11:26:08]  ======================================= 
+[11:26:08]  |                                     | 
+[11:26:08]  |        YSI version 4.00.0001        | 
+[11:26:08]  |        By Alex "Y_Less" Cole        | 
+[11:26:08]  |                                     | 
+[11:26:08]  ======================================= 
+[11:26:08]  
+[11:26:11] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[11:26:11] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[11:26:11] MySQL connection is successful.
+[11:26:11] [Object] Number of Dynamic objects loaded: 7465
+[11:26:11] Number of vehicle models: 28
+[11:26:11] [Server] Number of Loaded Data Server...
+[11:26:11] [Server] ServerMoney: 1454115536
+[11:26:11] [Houses] Number of Loaded: 1.
+[11:26:11] [Bisnis] Number of Loaded: 1.
+[11:26:11] [Dynamic Locker Faction] Number of Loaded: 6.
+[11:26:11] [Dynamic ATM] Number of Loaded: 10.
+[11:26:11] [Gates] Number of Gates loaded: 3.
+[11:26:11] [Dynamic Vouchers] Number of Loaded: 1.
+[11:26:11] [Dynamic Tree] Number of Loaded: 31.
+[11:26:11] [Dynamic Ore] Number of Loaded: 25.
+[11:26:19] [connection] 182.2.47.60:59537 requests connection cookie.
+[11:26:20] [connection] incoming connection: 182.2.47.60:59537 id: 0
+[11:26:20] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[11:26:57] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[11:27:38] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[11:27:48] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[11:28:24] [part] Felix_Flesyah has left the server (0:0)
+[11:29:27] [connection] 182.2.47.60:54276 requests connection cookie.
+[11:29:28] [connection] incoming connection: 182.2.47.60:54276 id: 0
+[11:29:29] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[11:29:50] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' ()
+[11:29:54] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 10)
+[11:30:07] [CMD]: Felix_Flesyah(0) has used the command 'sethp' ()
+[11:30:11] [CMD]: Felix_Flesyah(0) has used the command 'sethp' (0 10)
+[11:30:23] [CMD]: Felix_Flesyah(0) has used the command 'sethp' (0 )
+[11:30:26] [CMD]: Felix_Flesyah(0) has used the command 'sethp' (0 200)
+[11:44:23] [part] Felix_Flesyah has left the server (0:0)
+Console input: gmxgmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:44:37] password = ""  (string)
+[11:44:37] 
+[11:44:37] Server Plugins
+[11:44:37] --------------
+[11:44:37]  Loading plugin: crashdetect
+[11:44:37]   CrashDetect plugin 4.19.4
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: irc
+[11:44:37]   Failed.
+[11:44:37]  Loading plugin: mysql
+[11:44:37]  >> plugin.mysql: R41-4 successfully loaded.
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: sscanf
+[11:44:37] 
+
+[11:44:37]  ===============================
+
+[11:44:37]       sscanf plugin loaded.     
+
+[11:44:37]          Version:  2.8.3        
+
+[11:44:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:44:37]  ===============================
+
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: streamer
+[11:44:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: CTime
+[11:44:37]   Failed.
+[11:44:37]  Loading plugin: pawncmd
+[11:44:37] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: gvar
+[11:44:37] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: pawn-memory
+[11:44:37] ========================
+[11:44:37] = Memory access plugin =
+[11:44:37] =       Made by BigETI =
+[11:44:37] = Loaded!              =
+[11:44:37] ========================
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: timerfix
+[11:44:37]   >> TimerFix v1.7 successfully loaded.
+[11:44:37]   Loaded.
+[11:44:37]  Loading plugin: nativechecker
+[11:44:37]   Loaded.
+[11:44:37]  Loaded 9 plugins.
+
+[11:44:37] 
+[11:44:37] Ban list
+[11:44:37] --------
+[11:44:37]  Loaded: samp.ban
+[11:44:37] 
+[11:44:37] 
+[11:44:37] Filterscripts
+[11:44:37] ---------------
+[11:44:37]   Loading filterscript 'object.amx'...
+[11:44:37]   Loading filterscript 'Buttons.amx'...
+[11:44:37]   Loading filterscript 'progressbar.amx'...
+[11:44:37]  
+[11:44:37]  
+[11:44:37]  
+[11:44:37]  ======================================= 
+[11:44:37]  |                                     | 
+[11:44:37]  |        YSI version 4.00.0001        | 
+[11:44:37]  |        By Alex "Y_Less" Cole        | 
+[11:44:37]  |                                     | 
+[11:44:37]  ======================================= 
+[11:44:37]  
+[11:44:37] 
+Progress Bar Editor loaded!
+[11:44:37] Use the /bar command to begin editing.
+
+[11:44:37]   Loaded 3 filterscripts.
+
+[11:44:37]  
+[11:44:37]  
+[11:44:37]  
+[11:44:37]  ======================================= 
+[11:44:37]  |                                     | 
+[11:44:37]  |        YSI version 4.00.0001        | 
+[11:44:37]  |        By Alex "Y_Less" Cole        | 
+[11:44:37]  |                                     | 
+[11:44:37]  ======================================= 
+[11:44:37]  
+[11:44:40] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[11:44:40] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[11:44:40] MySQL connection is successful.
+[11:44:40] [Object] Number of Dynamic objects loaded: 7465
+[11:44:40] Number of vehicle models: 28
+[11:44:40] [Server] Number of Loaded Data Server...
+[11:44:40] [Server] ServerMoney: 1454115536
+[11:44:40] [Houses] Number of Loaded: 1.
+[11:44:40] [Bisnis] Number of Loaded: 1.
+[11:44:40] [Dynamic Locker Faction] Number of Loaded: 6.
+[11:44:40] [Dynamic ATM] Number of Loaded: 10.
+[11:44:40] [Gates] Number of Gates loaded: 3.
+[11:44:40] [Dynamic Vouchers] Number of Loaded: 1.
+[11:44:40] [Dynamic Tree] Number of Loaded: 31.
+[11:44:40] [Dynamic Ore] Number of Loaded: 25.
+[11:44:46] [connection] 182.2.47.60:59366 requests connection cookie.
+[11:44:47] [connection] incoming connection: 182.2.47.60:59366 id: 0
+[11:44:48] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[11:45:24] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[11:45:34] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 10)
+[11:45:37] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 100)
+[11:45:45] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[11:46:38] [part] Felix_Flesyah has left the server (0:0)
+[11:54:25] [connection] 182.2.47.60:40118 requests connection cookie.
+[11:54:25] [connection] incoming connection: 182.2.47.60:40118 id: 0
+[11:54:25] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[11:55:17] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:19:18] password = ""  (string)
+[12:19:18] 
+[12:19:18] Server Plugins
+[12:19:18] --------------
+[12:19:18]  Loading plugin: crashdetect
+[12:19:18]   CrashDetect plugin 4.19.4
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: irc
+[12:19:18]   Failed.
+[12:19:18]  Loading plugin: mysql
+[12:19:18]  >> plugin.mysql: R41-4 successfully loaded.
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: sscanf
+[12:19:18] 
+
+[12:19:18]  ===============================
+
+[12:19:18]       sscanf plugin loaded.     
+
+[12:19:18]          Version:  2.8.3        
+
+[12:19:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:19:18]  ===============================
+
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: streamer
+[12:19:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: CTime
+[12:19:18]   Failed.
+[12:19:18]  Loading plugin: pawncmd
+[12:19:18] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: gvar
+[12:19:18] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: pawn-memory
+[12:19:18] ========================
+[12:19:18] = Memory access plugin =
+[12:19:18] =       Made by BigETI =
+[12:19:18] = Loaded!              =
+[12:19:18] ========================
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: timerfix
+[12:19:18]   >> TimerFix v1.7 successfully loaded.
+[12:19:18]   Loaded.
+[12:19:18]  Loading plugin: nativechecker
+[12:19:18]   Loaded.
+[12:19:18]  Loaded 9 plugins.
+
+[12:19:18] 
+[12:19:18] Ban list
+[12:19:18] --------
+[12:19:18]  Loaded: samp.ban
+[12:19:18] 
+[12:19:18] 
+[12:19:18] Filterscripts
+[12:19:18] ---------------
+[12:19:18]   Loading filterscript 'object.amx'...
+[12:19:18]   Loading filterscript 'Buttons.amx'...
+[12:19:18]   Loading filterscript 'progressbar.amx'...
+[12:19:18]  
+[12:19:18]  
+[12:19:18]  
+[12:19:18]  ======================================= 
+[12:19:18]  |                                     | 
+[12:19:18]  |        YSI version 4.00.0001        | 
+[12:19:18]  |        By Alex "Y_Less" Cole        | 
+[12:19:18]  |                                     | 
+[12:19:18]  ======================================= 
+[12:19:18]  
+[12:19:18] 
+Progress Bar Editor loaded!
+[12:19:18] Use the /bar command to begin editing.
+
+[12:19:18]   Loaded 3 filterscripts.
+
+[12:19:18]  
+[12:19:18]  
+[12:19:18]  
+[12:19:18]  ======================================= 
+[12:19:18]  |                                     | 
+[12:19:18]  |        YSI version 4.00.0001        | 
+[12:19:18]  |        By Alex "Y_Less" Cole        | 
+[12:19:18]  |                                     | 
+[12:19:18]  ======================================= 
+[12:19:18]  
+[12:19:20] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[12:19:20] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[12:19:20] MySQL connection is successful.
+[12:19:20] [Object] Number of Dynamic objects loaded: 7465
+[12:19:20] Number of vehicle models: 28
+[12:19:20] [Server] Number of Loaded Data Server...
+[12:19:20] [Server] ServerMoney: 1454115536
+[12:19:20] [Houses] Number of Loaded: 1.
+[12:19:20] [Bisnis] Number of Loaded: 1.
+[12:19:20] [Dynamic Locker Faction] Number of Loaded: 6.
+[12:19:20] [Dynamic ATM] Number of Loaded: 10.
+[12:19:20] [Gates] Number of Gates loaded: 3.
+[12:19:20] [Dynamic Vouchers] Number of Loaded: 1.
+[12:19:20] [Dynamic Tree] Number of Loaded: 31.
+[12:19:20] [Dynamic Ore] Number of Loaded: 25.
+[12:19:32] [connection] 182.2.47.60:54264 requests connection cookie.
+[12:19:32] [connection] incoming connection: 182.2.47.60:54264 id: 0
+[12:19:32] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[12:20:02] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 50)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:23:26] password = ""  (string)
+[12:23:26] 
+[12:23:26] Server Plugins
+[12:23:26] --------------
+[12:23:26]  Loading plugin: crashdetect
+[12:23:26]   CrashDetect plugin 4.19.4
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: irc
+[12:23:26]   Failed.
+[12:23:26]  Loading plugin: mysql
+[12:23:26]  >> plugin.mysql: R41-4 successfully loaded.
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: sscanf
+[12:23:26] 
+
+[12:23:26]  ===============================
+
+[12:23:26]       sscanf plugin loaded.     
+
+[12:23:26]          Version:  2.8.3        
+
+[12:23:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:23:26]  ===============================
+
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: streamer
+[12:23:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: CTime
+[12:23:26]   Failed.
+[12:23:26]  Loading plugin: pawncmd
+[12:23:26] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: gvar
+[12:23:26] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: pawn-memory
+[12:23:26] ========================
+[12:23:26] = Memory access plugin =
+[12:23:26] =       Made by BigETI =
+[12:23:26] = Loaded!              =
+[12:23:26] ========================
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: timerfix
+[12:23:26]   >> TimerFix v1.7 successfully loaded.
+[12:23:26]   Loaded.
+[12:23:26]  Loading plugin: nativechecker
+[12:23:26]   Loaded.
+[12:23:26]  Loaded 9 plugins.
+
+[12:23:26] 
+[12:23:26] Ban list
+[12:23:26] --------
+[12:23:26]  Loaded: samp.ban
+[12:23:26] 
+[12:23:26] 
+[12:23:26] Filterscripts
+[12:23:26] ---------------
+[12:23:26]   Loading filterscript 'object.amx'...
+[12:23:26]   Loading filterscript 'Buttons.amx'...
+[12:23:26]   Loading filterscript 'progressbar.amx'...
+[12:23:26]  
+[12:23:26]  
+[12:23:26]  
+[12:23:26]  ======================================= 
+[12:23:26]  |                                     | 
+[12:23:26]  |        YSI version 4.00.0001        | 
+[12:23:26]  |        By Alex "Y_Less" Cole        | 
+[12:23:26]  |                                     | 
+[12:23:26]  ======================================= 
+[12:23:26]  
+[12:23:26] 
+Progress Bar Editor loaded!
+[12:23:26] Use the /bar command to begin editing.
+
+[12:23:26]   Loaded 3 filterscripts.
+
+[12:23:26]  
+[12:23:26]  
+[12:23:26]  
+[12:23:26]  ======================================= 
+[12:23:26]  |                                     | 
+[12:23:26]  |        YSI version 4.00.0001        | 
+[12:23:26]  |        By Alex "Y_Less" Cole        | 
+[12:23:26]  |                                     | 
+[12:23:26]  ======================================= 
+[12:23:26]  
+[12:23:28] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[12:23:28] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[12:23:28] MySQL connection is successful.
+[12:23:28] [Object] Number of Dynamic objects loaded: 7465
+[12:23:28] Number of vehicle models: 28
+[12:23:28] [Server] Number of Loaded Data Server...
+[12:23:28] [Server] ServerMoney: 1454115536
+[12:23:28] [Houses] Number of Loaded: 1.
+[12:23:28] [Bisnis] Number of Loaded: 1.
+[12:23:28] [Dynamic Locker Faction] Number of Loaded: 6.
+[12:23:28] [Dynamic ATM] Number of Loaded: 10.
+[12:23:28] [Gates] Number of Gates loaded: 3.
+[12:23:28] [Dynamic Vouchers] Number of Loaded: 1.
+[12:23:28] [Dynamic Tree] Number of Loaded: 31.
+[12:23:28] [Dynamic Ore] Number of Loaded: 25.
+[12:23:43] [connection] 182.2.47.60:57467 requests connection cookie.
+[12:23:43] [connection] incoming connection: 182.2.47.60:57467 id: 0
+[12:23:44] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[12:24:10] [CMD]: Felix_Flesyah(0) has used the command 'sethp' ()
+[12:24:14] [CMD]: Felix_Flesyah(0) has used the command 'setarmor' ()
+[12:24:19] [CMD]: Felix_Flesyah(0) has used the command 'setarmor' (0 50)
+[12:24:50] [part] Felix_Flesyah has left the server (0:0)
+Console input: gmx
+[16:52:26] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[16:52:26] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[16:52:26] [Gas Station] Number of Saved: 0
+[16:52:26] [Farmer Plant] Number of Saved: 0
+[16:52:38]  
+[16:52:38]  
+[16:52:38]  
+[16:52:38]  ======================================= 
+[16:52:38]  |                                     | 
+[16:52:38]  |        YSI version 4.00.0001        | 
+[16:52:38]  |        By Alex "Y_Less" Cole        | 
+[16:52:38]  |                                     | 
+[16:52:38]  ======================================= 
+[16:52:38]  
+[16:52:41] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[16:52:41] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[16:52:41] MySQL connection is successful.
+[16:52:41] [Object] Number of Dynamic objects loaded: 7465
+[16:52:41] Number of vehicle models: 28
+[16:52:41] [Server] Number of Loaded Data Server...
+[16:52:41] [Server] ServerMoney: 1454115536
+[16:52:41] [Houses] Number of Loaded: 1.
+[16:52:41] [Bisnis] Number of Loaded: 1.
+[16:52:41] [Dynamic Locker Faction] Number of Loaded: 6.
+[16:52:41] [Dynamic ATM] Number of Loaded: 10.
+[16:52:41] [Gates] Number of Gates loaded: 3.
+[16:52:41] [Dynamic Vouchers] Number of Loaded: 1.
+[16:52:41] [Dynamic Tree] Number of Loaded: 31.
+[16:52:41] [Dynamic Ore] Number of Loaded: 25.
+[16:52:42] [connection] 182.2.47.60:44136 requests connection cookie.
+[16:52:42] [connection] incoming connection: 182.2.47.60:44136 id: 0
+[16:52:43] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+Console input: gmx
+[16:54:42] [ADM] Info: Unload 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[16:54:42] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[16:54:42] [Gas Station] Number of Saved: 0
+[16:54:42] [Farmer Plant] Number of Saved: 0
+[16:54:54]  
+[16:54:54]  
+[16:54:54]  
+[16:54:54]  ======================================= 
+[16:54:54]  |                                     | 
+[16:54:54]  |        YSI version 4.00.0001        | 
+[16:54:54]  |        By Alex "Y_Less" Cole        | 
+[16:54:54]  |                                     | 
+[16:54:54]  ======================================= 
+[16:54:54]  
+[16:54:56] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[16:54:56] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[16:54:56] MySQL connection is successful.
+[16:54:56] [Object] Number of Dynamic objects loaded: 7465
+[16:54:56] Number of vehicle models: 28
+[16:54:56] [Server] Number of Loaded Data Server...
+[16:54:56] [Server] ServerMoney: 1454115536
+[16:54:56] [Houses] Number of Loaded: 1.
+[16:54:56] [Bisnis] Number of Loaded: 1.
+[16:54:56] [Dynamic Locker Faction] Number of Loaded: 6.
+[16:54:56] [Dynamic ATM] Number of Loaded: 10.
+[16:54:56] [Gates] Number of Gates loaded: 3.
+[16:54:56] [Dynamic Vouchers] Number of Loaded: 1.
+[16:54:56] [Dynamic Tree] Number of Loaded: 31.
+[16:54:56] [Dynamic Ore] Number of Loaded: 25.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:58:31] password = ""  (string)
+[16:58:31] 
+[16:58:31] Server Plugins
+[16:58:31] --------------
+[16:58:31]  Loading plugin: crashdetect
+[16:58:31]   CrashDetect plugin 4.19.4
+[16:58:31]   Loaded.
+[16:58:31]  Loading plugin: irc
+[16:58:31]   Failed.
+[16:58:31]  Loading plugin: mysql
+[16:58:31]  >> plugin.mysql: R41-4 successfully loaded.
+[16:58:31]   Loaded.
+[16:58:31]  Loading plugin: sscanf
+[16:58:31] 
+
+[16:58:31]  ===============================
+
+[16:58:31]       sscanf plugin loaded.     
+
+[16:58:31]          Version:  2.8.3        
+
+[16:58:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:58:31]  ===============================
+
+[16:58:31]   Loaded.
+[16:58:31]  Loading plugin: streamer
+[16:58:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:58:31]   Loaded.
+[16:58:31]  Loading plugin: CTime
+[16:58:31]   Failed.
+[16:58:31]  Loading plugin: pawncmd
+[16:58:31] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[16:58:31]   Loaded.
+[16:58:31]  Loading plugin: gvar
+[16:58:31] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[16:58:31]   Loaded.
+[16:58:31]  Loading plugin: pawn-memory
+[16:58:32] ========================
+[16:58:32] = Memory access plugin =
+[16:58:32] =       Made by BigETI =
+[16:58:32] = Loaded!              =
+[16:58:32] ========================
+[16:58:32]   Loaded.
+[16:58:32]  Loading plugin: timerfix
+[16:58:32]   >> TimerFix v1.7 successfully loaded.
+[16:58:32]   Loaded.
+[16:58:32]  Loading plugin: nativechecker
+[16:58:32]   Loaded.
+[16:58:32]  Loaded 9 plugins.
+
+[16:58:32] 
+[16:58:32] Ban list
+[16:58:32] --------
+[16:58:32]  Loaded: samp.ban
+[16:58:32] 
+[16:58:32] 
+[16:58:32] Filterscripts
+[16:58:32] ---------------
+[16:58:32]   Loading filterscript 'object.amx'...
+[16:58:32]   Loading filterscript 'Buttons.amx'...
+[16:58:32]   Loading filterscript 'progressbar.amx'...
+[16:58:32]  
+[16:58:32]  
+[16:58:32]  
+[16:58:32]  ======================================= 
+[16:58:32]  |                                     | 
+[16:58:32]  |        YSI version 4.00.0001        | 
+[16:58:32]  |        By Alex "Y_Less" Cole        | 
+[16:58:32]  |                                     | 
+[16:58:32]  ======================================= 
+[16:58:32]  
+[16:58:32] 
+Progress Bar Editor loaded!
+[16:58:32] Use the /bar command to begin editing.
+
+[16:58:32]   Loaded 3 filterscripts.
+
+[16:58:32]  
+[16:58:32]  
+[16:58:32]  
+[16:58:32]  ======================================= 
+[16:58:32]  |                                     | 
+[16:58:32]  |        YSI version 4.00.0001        | 
+[16:58:32]  |        By Alex "Y_Less" Cole        | 
+[16:58:32]  |                                     | 
+[16:58:32]  ======================================= 
+[16:58:32]  
+[16:58:34] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[16:58:34] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[16:58:34] MySQL connection is successful.
+[16:58:34] [Object] Number of Dynamic objects loaded: 7465
+[16:58:34] Number of vehicle models: 28
+[16:58:34] [Server] Number of Loaded Data Server...
+[16:58:34] [Server] ServerMoney: 1454115536
+[16:58:34] [Houses] Number of Loaded: 1.
+[16:58:34] [Bisnis] Number of Loaded: 1.
+[16:58:34] [Dynamic Locker Faction] Number of Loaded: 6.
+[16:58:34] [Dynamic ATM] Number of Loaded: 10.
+[16:58:34] [Gates] Number of Gates loaded: 3.
+[16:58:34] [Dynamic Vouchers] Number of Loaded: 1.
+[16:58:34] [Dynamic Tree] Number of Loaded: 31.
+[16:58:34] [Dynamic Ore] Number of Loaded: 25.
+[16:58:37] [connection] 182.2.47.60:55011 requests connection cookie.
+[16:58:37] [connection] incoming connection: 182.2.47.60:55011 id: 0
+[16:58:38] [join] Felix_Flesyah has joined the server (0:182.2.47.60)
+[16:59:12] [part] Felix_Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:50:56] password = ""  (string)
+[00:50:56] 
+[00:50:56] Server Plugins
+[00:50:56] --------------
+[00:50:56]  Loading plugin: crashdetect
+[00:50:56]   CrashDetect plugin 4.19.4
+[00:50:56]   Loaded.
+[00:50:56]  Loading plugin: irc
+[00:50:56]   Failed.
+[00:50:56]  Loading plugin: mysql
+[00:50:56]  >> plugin.mysql: R41-4 successfully loaded.
+[00:50:56]   Loaded.
+[00:50:56]  Loading plugin: sscanf
+[00:50:56] 
+
+[00:50:56]  ===============================
+
+[00:50:56]       sscanf plugin loaded.     
+
+[00:50:56]          Version:  2.8.3        
+
+[00:50:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:50:56]  ===============================
+
+[00:50:56]   Loaded.
+[00:50:56]  Loading plugin: streamer
+[00:50:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:50:56]   Loaded.
+[00:50:56]  Loading plugin: CTime
+[00:50:56]   Failed.
+[00:50:56]  Loading plugin: pawncmd
+[00:50:57] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:50:57]   Loaded.
+[00:50:57]  Loading plugin: gvar
+[00:50:57] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[00:50:57]   Loaded.
+[00:50:57]  Loading plugin: pawn-memory
+[00:50:57] ========================
+[00:50:57] = Memory access plugin =
+[00:50:57] =       Made by BigETI =
+[00:50:57] = Loaded!              =
+[00:50:57] ========================
+[00:50:57]   Loaded.
+[00:50:57]  Loading plugin: timerfix
+[00:50:57]   >> TimerFix v1.7 successfully loaded.
+[00:50:57]   Loaded.
+[00:50:57]  Loading plugin: nativechecker
+[00:50:57]   Loaded.
+[00:50:57]  Loaded 9 plugins.
+
+[00:50:57] 
+[00:50:57] Ban list
+[00:50:57] --------
+[00:50:57]  Loaded: samp.ban
+[00:50:57] 
+[00:50:57] 
+[00:50:57] Filterscripts
+[00:50:57] ---------------
+[00:50:57]   Loading filterscript 'object.amx'...
+[00:50:57]   Loading filterscript 'Buttons.amx'...
+[00:50:57]   Loading filterscript 'progressbar.amx'...
+[00:50:57]  
+[00:50:57]  
+[00:50:57]  
+[00:50:57]  ======================================= 
+[00:50:57]  |                                     | 
+[00:50:57]  |        YSI version 4.00.0001        | 
+[00:50:57]  |        By Alex "Y_Less" Cole        | 
+[00:50:57]  |                                     | 
+[00:50:57]  ======================================= 
+[00:50:57]  
+[00:50:57] 
+Progress Bar Editor loaded!
+[00:50:57] Use the /bar command to begin editing.
+
+[00:50:57]   Loaded 3 filterscripts.
+
+[00:50:57]  
+[00:50:57]  
+[00:50:57]  
+[00:50:57]  ======================================= 
+[00:50:57]  |                                     | 
+[00:50:57]  |        YSI version 4.00.0001        | 
+[00:50:57]  |        By Alex "Y_Less" Cole        | 
+[00:50:57]  |                                     | 
+[00:50:57]  ======================================= 
+[00:50:57]  
+[00:50:59] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[00:50:59] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[00:50:59] MySQL connection is successful.
+[00:50:59] [Object] Number of Dynamic objects loaded: 7465
+[00:50:59] Number of vehicle models: 28
+[00:50:59] [Server] Number of Loaded Data Server...
+[00:50:59] [Server] ServerMoney: 1454115536
+[00:50:59] [Houses] Number of Loaded: 1.
+[00:50:59] [Bisnis] Number of Loaded: 1.
+[00:50:59] [Dynamic Locker Faction] Number of Loaded: 6.
+[00:50:59] [Dynamic ATM] Number of Loaded: 10.
+[00:50:59] [Gates] Number of Gates loaded: 3.
+[00:50:59] [Dynamic Vouchers] Number of Loaded: 1.
+[00:50:59] [Dynamic Tree] Number of Loaded: 31.
+[00:50:59] [Dynamic Ore] Number of Loaded: 25.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:02:49] password = ""  (string)
+[01:02:49] 
+[01:02:49] Server Plugins
+[01:02:49] --------------
+[01:02:49]  Loading plugin: crashdetect
+[01:02:49]   CrashDetect plugin 4.19.4
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: irc
+[01:02:49]   Failed.
+[01:02:49]  Loading plugin: mysql
+[01:02:49]  >> plugin.mysql: R41-4 successfully loaded.
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: sscanf
+[01:02:49] 
+
+[01:02:49]  ===============================
+
+[01:02:49]       sscanf plugin loaded.     
+
+[01:02:49]          Version:  2.8.3        
+
+[01:02:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:02:49]  ===============================
+
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: streamer
+[01:02:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: CTime
+[01:02:49]   Failed.
+[01:02:49]  Loading plugin: pawncmd
+[01:02:49] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: gvar
+[01:02:49] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: pawn-memory
+[01:02:49] ========================
+[01:02:49] = Memory access plugin =
+[01:02:49] =       Made by BigETI =
+[01:02:49] = Loaded!              =
+[01:02:49] ========================
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: timerfix
+[01:02:49]   >> TimerFix v1.7 successfully loaded.
+[01:02:49]   Loaded.
+[01:02:49]  Loading plugin: nativechecker
+[01:02:49]   Loaded.
+[01:02:49]  Loaded 9 plugins.
+
+[01:02:49] 
+[01:02:49] Ban list
+[01:02:49] --------
+[01:02:49]  Loaded: samp.ban
+[01:02:49] 
+[01:02:49] 
+[01:02:49] Filterscripts
+[01:02:49] ---------------
+[01:02:49]   Loading filterscript 'object.amx'...
+[01:02:49]   Loading filterscript 'Buttons.amx'...
+[01:02:49]   Loading filterscript 'progressbar.amx'...
+[01:02:49]  
+[01:02:49]  
+[01:02:49]  
+[01:02:49]  ======================================= 
+[01:02:49]  |                                     | 
+[01:02:49]  |        YSI version 4.00.0001        | 
+[01:02:49]  |        By Alex "Y_Less" Cole        | 
+[01:02:49]  |                                     | 
+[01:02:49]  ======================================= 
+[01:02:49]  
+[01:02:49] 
+Progress Bar Editor loaded!
+[01:02:49] Use the /bar command to begin editing.
+
+[01:02:49]   Loaded 3 filterscripts.
+
+[01:02:50]  
+[01:02:50]  
+[01:02:50]  
+[01:02:50]  ======================================= 
+[01:02:50]  |                                     | 
+[01:02:50]  |        YSI version 4.00.0001        | 
+[01:02:50]  |        By Alex "Y_Less" Cole        | 
+[01:02:50]  |                                     | 
+[01:02:50]  ======================================= 
+[01:02:50]  
+[01:02:51] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[01:02:51] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[01:02:51] MySQL connection is successful.
+[01:02:51] [Object] Number of Dynamic objects loaded: 7465
+[01:02:51] Number of vehicle models: 28
+[01:02:51] [Server] Number of Loaded Data Server...
+[01:02:51] [Server] ServerMoney: 1454115536
+[01:02:51] [Houses] Number of Loaded: 1.
+[01:02:51] [Bisnis] Number of Loaded: 1.
+[01:02:51] [Dynamic Locker Faction] Number of Loaded: 6.
+[01:02:51] [Dynamic ATM] Number of Loaded: 10.
+[01:02:51] [Gates] Number of Gates loaded: 3.
+[01:02:51] [Dynamic Vouchers] Number of Loaded: 1.
+[01:02:51] [Dynamic Tree] Number of Loaded: 31.
+[01:02:51] [Dynamic Ore] Number of Loaded: 25.
+[01:03:10] [connection] 182.2.45.188:52444 requests connection cookie.
+[01:03:10] [connection] incoming connection: 182.2.45.188:52444 id: 0
+[01:03:10] [join] Felix_Flesyah has joined the server (0:182.2.45.188)
+[01:03:12] [part] Felix_Flesyah has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:26:19] password = ""  (string)
+[01:26:19] 
+[01:26:19] Server Plugins
+[01:26:19] --------------
+[01:26:19]  Loading plugin: crashdetect
+[01:26:19]   CrashDetect plugin 4.19.4
+[01:26:19]   Loaded.
+[01:26:19]  Loading plugin: irc
+[01:26:19]   Failed.
+[01:26:19]  Loading plugin: mysql
+[01:26:19]  >> plugin.mysql: R41-4 successfully loaded.
+[01:26:19]   Loaded.
+[01:26:19]  Loading plugin: sscanf
+[01:26:19] 
+
+[01:26:19]  ===============================
+
+[01:26:19]       sscanf plugin loaded.     
+
+[01:26:19]          Version:  2.8.3        
+
+[01:26:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:26:19]  ===============================
+
+[01:26:19]   Loaded.
+[01:26:19]  Loading plugin: discord-connector
+[01:26:22]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[01:26:22]   Loaded.
+[01:26:22]  Loading plugin: streamer
+[01:26:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:26:22]   Loaded.
+[01:26:22]  Loading plugin: CTime
+[01:26:22]   Failed.
+[01:26:22]  Loading plugin: pawncmd
+[01:26:22] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:26:22]   Loaded.
+[01:26:22]  Loading plugin: gvar
+[01:26:22] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[01:26:22]   Loaded.
+[01:26:22]  Loading plugin: pawn-memory
+[01:26:22] ========================
+[01:26:22] = Memory access plugin =
+[01:26:22] =       Made by BigETI =
+[01:26:22] = Loaded!              =
+[01:26:22] ========================
+[01:26:22]   Loaded.
+[01:26:22]  Loading plugin: timerfix
+[01:26:22]   >> TimerFix v1.7 successfully loaded.
+[01:26:22]   Loaded.
+[01:26:22]  Loading plugin: nativechecker
+[01:26:22]   Loaded.
+[01:26:22]  Loaded 10 plugins.
+
+[01:26:22] 
+[01:26:22] Ban list
+[01:26:22] --------
+[01:26:22]  Loaded: samp.ban
+[01:26:22] 
+[01:26:22] 
+[01:26:22] Filterscripts
+[01:26:22] ---------------
+[01:26:22]   Loading filterscript 'object.amx'...
+[01:26:22]   Loading filterscript 'Buttons.amx'...
+[01:26:22]   Loading filterscript 'progressbar.amx'...
+[01:26:22]  
+[01:26:22]  
+[01:26:22]  
+[01:26:22]  ======================================= 
+[01:26:22]  |                                     | 
+[01:26:22]  |        YSI version 4.00.0001        | 
+[01:26:22]  |        By Alex "Y_Less" Cole        | 
+[01:26:22]  |                                     | 
+[01:26:22]  ======================================= 
+[01:26:22]  
+[01:26:22] 
+Progress Bar Editor loaded!
+[01:26:22] Use the /bar command to begin editing.
+
+[01:26:22]   Loaded 3 filterscripts.
+
+[01:26:22]  
+[01:26:22]  
+[01:26:22]  
+[01:26:22]  ======================================= 
+[01:26:22]  |                                     | 
+[01:26:22]  |        YSI version 4.00.0001        | 
+[01:26:22]  |        By Alex "Y_Less" Cole        | 
+[01:26:22]  |                                     | 
+[01:26:22]  ======================================= 
+[01:26:22]  
+[01:26:24] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[01:26:24] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[01:26:24] MySQL connection is successful.
+[01:26:24] [Object] Number of Dynamic objects loaded: 7465
+[01:26:24] Number of vehicle models: 28
+[01:26:24] [Server] Number of Loaded Data Server...
+[01:26:24] [Server] ServerMoney: 1454115536
+[01:26:24] [Houses] Number of Loaded: 1.
+[01:26:24] [Bisnis] Number of Loaded: 1.
+[01:26:24] [Dynamic Locker Faction] Number of Loaded: 6.
+[01:26:24] [Dynamic ATM] Number of Loaded: 10.
+[01:26:24] [Gates] Number of Gates loaded: 3.
+[01:26:24] [Dynamic Vouchers] Number of Loaded: 1.
+[01:26:24] [Dynamic Tree] Number of Loaded: 31.
+[01:26:24] [Dynamic Ore] Number of Loaded: 25.
+[01:27:29] [connection] 182.2.45.188:47667 requests connection cookie.
+[01:27:29] [connection] incoming connection: 182.2.45.188:47667 id: 0
+[01:27:30] [join] Felix has joined the server (0:182.2.45.188)
+[01:30:49] [connection] 182.2.45.188:43780 requests connection cookie.
+[01:30:49] [connection] incoming connection: 182.2.45.188:43780 id: 1
+[01:30:54] [part] Felix has left the server (0:0)
+[01:31:11] [connection] 182.2.45.188:46055 requests connection cookie.
+[01:31:12] [connection] incoming connection: 182.2.45.188:46055 id: 0
+[01:31:12] [join] Felix has joined the server (0:182.2.45.188)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:35:40] password = ""  (string)
+[01:35:40] 
+[01:35:40] Server Plugins
+[01:35:40] --------------
+[01:35:40]  Loading plugin: crashdetect
+[01:35:41]   CrashDetect plugin 4.19.4
+[01:35:41]   Loaded.
+[01:35:41]  Loading plugin: irc
+[01:35:41]   Failed.
+[01:35:41]  Loading plugin: mysql
+[01:35:41]  >> plugin.mysql: R41-4 successfully loaded.
+[01:35:41]   Loaded.
+[01:35:41]  Loading plugin: sscanf
+[01:35:41] 
+
+[01:35:41]  ===============================
+
+[01:35:41]       sscanf plugin loaded.     
+
+[01:35:41]          Version:  2.8.3        
+
+[01:35:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:35:41]  ===============================
+
+[01:35:41]   Loaded.
+[01:35:41]  Loading plugin: discord-connector
+[01:35:42]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[01:35:42]   Loaded.
+[01:35:42]  Loading plugin: streamer
+[01:35:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:35:42]   Loaded.
+[01:35:42]  Loading plugin: CTime
+[01:35:42]   Failed.
+[01:35:42]  Loading plugin: pawncmd
+[01:35:42] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:35:42]   Loaded.
+[01:35:42]  Loading plugin: gvar
+[01:35:42] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[01:35:42]   Loaded.
+[01:35:42]  Loading plugin: pawn-memory
+[01:35:42] ========================
+[01:35:42] = Memory access plugin =
+[01:35:42] =       Made by BigETI =
+[01:35:42] = Loaded!              =
+[01:35:42] ========================
+[01:35:42]   Loaded.
+[01:35:42]  Loading plugin: timerfix
+[01:35:42]   >> TimerFix v1.7 successfully loaded.
+[01:35:42]   Loaded.
+[01:35:42]  Loading plugin: nativechecker
+[01:35:42]   Loaded.
+[01:35:42]  Loaded 10 plugins.
+
+[01:35:42] 
+[01:35:42] Ban list
+[01:35:42] --------
+[01:35:42]  Loaded: samp.ban
+[01:35:42] 
+[01:35:42] 
+[01:35:42] Filterscripts
+[01:35:42] ---------------
+[01:35:42]   Loading filterscript 'object.amx'...
+[01:35:42]   Loading filterscript 'Buttons.amx'...
+[01:35:42]   Loading filterscript 'progressbar.amx'...
+[01:35:42]  
+[01:35:42]  
+[01:35:42]  
+[01:35:42]  ======================================= 
+[01:35:42]  |                                     | 
+[01:35:42]  |        YSI version 4.00.0001        | 
+[01:35:42]  |        By Alex "Y_Less" Cole        | 
+[01:35:42]  |                                     | 
+[01:35:42]  ======================================= 
+[01:35:42]  
+[01:35:42] 
+Progress Bar Editor loaded!
+[01:35:42] Use the /bar command to begin editing.
+
+[01:35:42]   Loaded 3 filterscripts.
+
+[01:35:42]  
+[01:35:42]  
+[01:35:42]  
+[01:35:42]  ======================================= 
+[01:35:42]  |                                     | 
+[01:35:42]  |        YSI version 4.00.0001        | 
+[01:35:42]  |        By Alex "Y_Less" Cole        | 
+[01:35:42]  |                                     | 
+[01:35:42]  ======================================= 
+[01:35:42]  
+[01:35:44] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[01:35:44] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[01:35:44] MySQL connection is successful.
+[01:35:44] [Object] Number of Dynamic objects loaded: 7465
+[01:35:44] Number of vehicle models: 28
+[01:35:44] [Server] Number of Loaded Data Server...
+[01:35:44] [Server] ServerMoney: 1454115536
+[01:35:44] [Houses] Number of Loaded: 1.
+[01:35:44] [Bisnis] Number of Loaded: 1.
+[01:35:44] [Dynamic Locker Faction] Number of Loaded: 6.
+[01:35:44] [Dynamic ATM] Number of Loaded: 10.
+[01:35:44] [Gates] Number of Gates loaded: 3.
+[01:35:44] [Dynamic Vouchers] Number of Loaded: 1.
+[01:35:44] [Dynamic Tree] Number of Loaded: 31.
+[01:35:44] [Dynamic Ore] Number of Loaded: 25.
+[01:36:08] [connection] 182.2.45.188:47583 requests connection cookie.
+[01:36:08] [connection] incoming connection: 182.2.45.188:47583 id: 0
+[01:36:08] [join] Felix has joined the server (0:182.2.45.188)
+[01:36:21] [part] Felix has left the server (0:0)
+[01:36:25] [connection] 182.2.45.188:56460 requests connection cookie.
+[01:36:25] [connection] incoming connection: 182.2.45.188:56460 id: 0
+[01:36:26] [join] Flesyah has joined the server (0:182.2.45.188)
+[01:53:24] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:57:49] password = ""  (string)
+[01:57:49] 
+[01:57:49] Server Plugins
+[01:57:49] --------------
+[01:57:49]  Loading plugin: crashdetect
+[01:57:49]   CrashDetect plugin 4.19.4
+[01:57:49]   Loaded.
+[01:57:49]  Loading plugin: irc
+[01:57:49]   Failed.
+[01:57:49]  Loading plugin: mysql
+[01:57:49]  >> plugin.mysql: R41-4 successfully loaded.
+[01:57:49]   Loaded.
+[01:57:49]  Loading plugin: sscanf
+[01:57:49] 
+
+[01:57:49]  ===============================
+
+[01:57:49]       sscanf plugin loaded.     
+
+[01:57:49]          Version:  2.8.3        
+
+[01:57:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:57:49]  ===============================
+
+[01:57:49]   Loaded.
+[01:57:49]  Loading plugin: discord-connector
+[01:57:51]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[01:57:51]   Loaded.
+[01:57:51]  Loading plugin: streamer
+[01:57:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:57:51]   Loaded.
+[01:57:51]  Loading plugin: CTime
+[01:57:51]   Failed.
+[01:57:51]  Loading plugin: pawncmd
+[01:57:51] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:57:51]   Loaded.
+[01:57:51]  Loading plugin: gvar
+[01:57:51] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[01:57:51]   Loaded.
+[01:57:51]  Loading plugin: pawn-memory
+[01:57:51] ========================
+[01:57:51] = Memory access plugin =
+[01:57:51] =       Made by BigETI =
+[01:57:51] = Loaded!              =
+[01:57:51] ========================
+[01:57:51]   Loaded.
+[01:57:51]  Loading plugin: timerfix
+[01:57:51]   >> TimerFix v1.7 successfully loaded.
+[01:57:51]   Loaded.
+[01:57:51]  Loading plugin: nativechecker
+[01:57:51]   Loaded.
+[01:57:51]  Loaded 10 plugins.
+
+[01:57:51] 
+[01:57:51] Ban list
+[01:57:51] --------
+[01:57:51]  Loaded: samp.ban
+[01:57:51] 
+[01:57:51] 
+[01:57:51] Filterscripts
+[01:57:51] ---------------
+[01:57:51]   Loading filterscript 'object.amx'...
+[01:57:51]   Loading filterscript 'Buttons.amx'...
+[01:57:51]   Loading filterscript 'progressbar.amx'...
+[01:57:51]  
+[01:57:51]  
+[01:57:51]  
+[01:57:51]  ======================================= 
+[01:57:51]  |                                     | 
+[01:57:51]  |        YSI version 4.00.0001        | 
+[01:57:51]  |        By Alex "Y_Less" Cole        | 
+[01:57:51]  |                                     | 
+[01:57:51]  ======================================= 
+[01:57:51]  
+[01:57:51] 
+Progress Bar Editor loaded!
+[01:57:51] Use the /bar command to begin editing.
+
+[01:57:51]   Loaded 3 filterscripts.
+
+[01:57:51]  
+[01:57:51]  
+[01:57:51]  
+[01:57:51]  ======================================= 
+[01:57:51]  |                                     | 
+[01:57:51]  |        YSI version 4.00.0001        | 
+[01:57:51]  |        By Alex "Y_Less" Cole        | 
+[01:57:51]  |                                     | 
+[01:57:51]  ======================================= 
+[01:57:51]  
+[01:57:53] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[01:57:53] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[01:57:53] MySQL connection is successful.
+[01:57:53] [Object] Number of Dynamic objects loaded: 7465
+[01:57:53] Number of vehicle models: 28
+[01:57:53] [Server] Number of Loaded Data Server...
+[01:57:53] [Server] ServerMoney: 1454115536
+[01:57:53] [Houses] Number of Loaded: 1.
+[01:57:53] [Bisnis] Number of Loaded: 1.
+[01:57:53] [Dynamic Locker Faction] Number of Loaded: 6.
+[01:57:53] [Dynamic ATM] Number of Loaded: 10.
+[01:57:53] [Gates] Number of Gates loaded: 3.
+[01:57:53] [Dynamic Vouchers] Number of Loaded: 1.
+[01:57:53] [Dynamic Tree] Number of Loaded: 31.
+[01:57:53] [Dynamic Ore] Number of Loaded: 25.
+[01:58:19] [connection] 182.2.45.188:41213 requests connection cookie.
+[01:58:19] [connection] incoming connection: 182.2.45.188:41213 id: 0
+[01:58:20] [join] Flesyah has joined the server (0:182.2.45.188)
+[02:00:38] [part] Flesyah has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:50:07] password = ""  (string)
+[17:50:07] 
+[17:50:07] Server Plugins
+[17:50:07] --------------
+[17:50:07]  Loading plugin: crashdetect
+[17:50:07]   CrashDetect plugin 4.19.4
+[17:50:07]   Loaded.
+[17:50:07]  Loading plugin: irc
+[17:50:07]   Failed.
+[17:50:07]  Loading plugin: mysql
+[17:50:07]  >> plugin.mysql: R41-4 successfully loaded.
+[17:50:07]   Loaded.
+[17:50:07]  Loading plugin: sscanf
+[17:50:07] 
+
+[17:50:07]  ===============================
+
+[17:50:07]       sscanf plugin loaded.     
+
+[17:50:07]          Version:  2.8.3        
+
+[17:50:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:50:07]  ===============================
+
+[17:50:07]   Loaded.
+[17:50:07]  Loading plugin: discord-connector
+[17:50:09]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[17:50:09]   Loaded.
+[17:50:09]  Loading plugin: streamer
+[17:50:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:50:09]   Loaded.
+[17:50:09]  Loading plugin: CTime
+[17:50:09]   Failed.
+[17:50:09]  Loading plugin: pawncmd
+[17:50:09] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:50:09]   Loaded.
+[17:50:09]  Loading plugin: gvar
+[17:50:09] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:50:09]   Loaded.
+[17:50:09]  Loading plugin: pawn-memory
+[17:50:09] ========================
+[17:50:09] = Memory access plugin =
+[17:50:09] =       Made by BigETI =
+[17:50:09] = Loaded!              =
+[17:50:09] ========================
+[17:50:09]   Loaded.
+[17:50:09]  Loading plugin: timerfix
+[17:50:09]   >> TimerFix v1.7 successfully loaded.
+[17:50:09]   Loaded.
+[17:50:09]  Loading plugin: nativechecker
+[17:50:09]   Loaded.
+[17:50:09]  Loaded 10 plugins.
+
+[17:50:09] 
+[17:50:09] Ban list
+[17:50:09] --------
+[17:50:09]  Loaded: samp.ban
+[17:50:09] 
+[17:50:09] 
+[17:50:09] Filterscripts
+[17:50:09] ---------------
+[17:50:09]   Loading filterscript 'object.amx'...
+[17:50:10]   Loading filterscript 'Buttons.amx'...
+[17:50:10]   Loading filterscript 'progressbar.amx'...
+[17:50:10]  
+[17:50:10]  
+[17:50:10]  
+[17:50:10]  ======================================= 
+[17:50:10]  |                                     | 
+[17:50:10]  |        YSI version 4.00.0001        | 
+[17:50:10]  |        By Alex "Y_Less" Cole        | 
+[17:50:10]  |                                     | 
+[17:50:10]  ======================================= 
+[17:50:10]  
+[17:50:10] 
+Progress Bar Editor loaded!
+[17:50:10] Use the /bar command to begin editing.
+
+[17:50:10]   Loaded 3 filterscripts.
+
+[17:50:10]  
+[17:50:10]  
+[17:50:10]  
+[17:50:10]  ======================================= 
+[17:50:10]  |                                     | 
+[17:50:10]  |        YSI version 4.00.0001        | 
+[17:50:10]  |        By Alex "Y_Less" Cole        | 
+[17:50:10]  |                                     | 
+[17:50:10]  ======================================= 
+[17:50:10]  
+[17:50:12] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[17:50:12] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[17:50:12] MySQL connection is successful.
+[17:50:12] [Object] Number of Dynamic objects loaded: 7465
+[17:50:12] Number of vehicle models: 28
+[17:50:12] [Server] Number of Loaded Data Server...
+[17:50:12] [Server] ServerMoney: 1454115536
+[17:50:12] [Houses] Number of Loaded: 1.
+[17:50:12] [Bisnis] Number of Loaded: 1.
+[17:50:12] [Dynamic Locker Faction] Number of Loaded: 6.
+[17:50:12] [Dynamic ATM] Number of Loaded: 10.
+[17:50:12] [Gates] Number of Gates loaded: 3.
+[17:50:12] [Dynamic Vouchers] Number of Loaded: 1.
+[17:50:12] [Dynamic Tree] Number of Loaded: 31.
+[17:50:12] [Dynamic Ore] Number of Loaded: 25.
+[17:50:40] [connection] 182.2.44.156:47594 requests connection cookie.
+[17:50:40] [connection] incoming connection: 182.2.44.156:47594 id: 0
+[17:50:41] [join] Flesyah has joined the server (0:182.2.44.156)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:22] password = ""  (string)
+[17:52:22] 
+[17:52:22] Server Plugins
+[17:52:22] --------------
+[17:52:22]  Loading plugin: crashdetect
+[17:52:22]   CrashDetect plugin 4.19.4
+[17:52:22]   Loaded.
+[17:52:22]  Loading plugin: irc
+[17:52:22]   Failed.
+[17:52:22]  Loading plugin: mysql
+[17:52:22]  >> plugin.mysql: R41-4 successfully loaded.
+[17:52:22]   Loaded.
+[17:52:22]  Loading plugin: sscanf
+[17:52:22] 
+
+[17:52:22]  ===============================
+
+[17:52:22]       sscanf plugin loaded.     
+
+[17:52:22]          Version:  2.8.3        
+
+[17:52:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:52:22]  ===============================
+
+[17:52:22]   Loaded.
+[17:52:22]  Loading plugin: discord-connector
+[17:52:24]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[17:52:24]   Loaded.
+[17:52:24]  Loading plugin: streamer
+[17:52:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:52:24]   Loaded.
+[17:52:24]  Loading plugin: CTime
+[17:52:24]   Failed.
+[17:52:24]  Loading plugin: pawncmd
+[17:52:24] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:52:24]   Loaded.
+[17:52:24]  Loading plugin: gvar
+[17:52:24] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:52:24]   Loaded.
+[17:52:24]  Loading plugin: pawn-memory
+[17:52:24] ========================
+[17:52:24] = Memory access plugin =
+[17:52:24] =       Made by BigETI =
+[17:52:24] = Loaded!              =
+[17:52:24] ========================
+[17:52:24]   Loaded.
+[17:52:24]  Loading plugin: timerfix
+[17:52:24]   >> TimerFix v1.7 successfully loaded.
+[17:52:24]   Loaded.
+[17:52:24]  Loading plugin: nativechecker
+[17:52:24]   Loaded.
+[17:52:24]  Loaded 10 plugins.
+
+[17:52:24] 
+[17:52:24] Ban list
+[17:52:24] --------
+[17:52:24]  Loaded: samp.ban
+[17:52:24] 
+[17:52:24] 
+[17:52:24] Filterscripts
+[17:52:24] ---------------
+[17:52:24]   Loading filterscript 'object.amx'...
+[17:52:24]   Loading filterscript 'Buttons.amx'...
+[17:52:24]   Loading filterscript 'progressbar.amx'...
+[17:52:24]  
+[17:52:24]  
+[17:52:24]  
+[17:52:24]  ======================================= 
+[17:52:24]  |                                     | 
+[17:52:24]  |        YSI version 4.00.0001        | 
+[17:52:24]  |        By Alex "Y_Less" Cole        | 
+[17:52:24]  |                                     | 
+[17:52:24]  ======================================= 
+[17:52:24]  
+[17:52:24] 
+Progress Bar Editor loaded!
+[17:52:24] Use the /bar command to begin editing.
+
+[17:52:24]   Loaded 3 filterscripts.
+
+[17:52:24]  
+[17:52:24]  
+[17:52:24]  
+[17:52:24]  ======================================= 
+[17:52:24]  |                                     | 
+[17:52:24]  |        YSI version 4.00.0001        | 
+[17:52:24]  |        By Alex "Y_Less" Cole        | 
+[17:52:24]  |                                     | 
+[17:52:24]  ======================================= 
+[17:52:24]  
+[17:52:26] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[17:52:26] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[17:52:26] MySQL connection is successful.
+[17:52:26] [Object] Number of Dynamic objects loaded: 7465
+[17:52:26] Number of vehicle models: 28
+[17:52:26] [Server] Number of Loaded Data Server...
+[17:52:26] [Server] ServerMoney: 1454115536
+[17:52:26] [Houses] Number of Loaded: 1.
+[17:52:26] [Bisnis] Number of Loaded: 1.
+[17:52:26] [Dynamic Locker Faction] Number of Loaded: 6.
+[17:52:26] [Dynamic ATM] Number of Loaded: 10.
+[17:52:26] [Gates] Number of Gates loaded: 3.
+[17:52:26] [Dynamic Vouchers] Number of Loaded: 1.
+[17:52:26] [Dynamic Tree] Number of Loaded: 31.
+[17:52:26] [Dynamic Ore] Number of Loaded: 25.
+[17:52:35] [connection] 182.2.44.156:36478 requests connection cookie.
+[17:52:36] [connection] incoming connection: 182.2.44.156:36478 id: 0
+[17:52:36] [join] Flesyah has joined the server (0:182.2.44.156)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:55:47] password = ""  (string)
+[17:55:47] 
+[17:55:47] Server Plugins
+[17:55:47] --------------
+[17:55:47]  Loading plugin: crashdetect
+[17:55:47]   CrashDetect plugin 4.19.4
+[17:55:47]   Loaded.
+[17:55:47]  Loading plugin: irc
+[17:55:47]   Failed.
+[17:55:47]  Loading plugin: mysql
+[17:55:47]  >> plugin.mysql: R41-4 successfully loaded.
+[17:55:47]   Loaded.
+[17:55:47]  Loading plugin: sscanf
+[17:55:47] 
+
+[17:55:47]  ===============================
+
+[17:55:47]       sscanf plugin loaded.     
+
+[17:55:47]          Version:  2.8.3        
+
+[17:55:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:55:47]  ===============================
+
+[17:55:47]   Loaded.
+[17:55:47]  Loading plugin: discord-connector
+[17:55:49]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[17:55:49]   Loaded.
+[17:55:49]  Loading plugin: streamer
+[17:55:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:55:49]   Loaded.
+[17:55:49]  Loading plugin: CTime
+[17:55:49]   Failed.
+[17:55:49]  Loading plugin: pawncmd
+[17:55:49] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:55:49]   Loaded.
+[17:55:49]  Loading plugin: gvar
+[17:55:49] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:55:49]   Loaded.
+[17:55:49]  Loading plugin: pawn-memory
+[17:55:49] ========================
+[17:55:49] = Memory access plugin =
+[17:55:49] =       Made by BigETI =
+[17:55:49] = Loaded!              =
+[17:55:49] ========================
+[17:55:49]   Loaded.
+[17:55:49]  Loading plugin: timerfix
+[17:55:49]   >> TimerFix v1.7 successfully loaded.
+[17:55:49]   Loaded.
+[17:55:49]  Loading plugin: nativechecker
+[17:55:49]   Loaded.
+[17:55:49]  Loaded 10 plugins.
+
+[17:55:49] 
+[17:55:49] Ban list
+[17:55:49] --------
+[17:55:49]  Loaded: samp.ban
+[17:55:49] 
+[17:55:49] 
+[17:55:49] Filterscripts
+[17:55:49] ---------------
+[17:55:49]   Loading filterscript 'object.amx'...
+[17:55:49]   Loading filterscript 'Buttons.amx'...
+[17:55:49]   Loading filterscript 'progressbar.amx'...
+[17:55:49]  
+[17:55:49]  
+[17:55:49]  
+[17:55:49]  ======================================= 
+[17:55:49]  |                                     | 
+[17:55:49]  |        YSI version 4.00.0001        | 
+[17:55:49]  |        By Alex "Y_Less" Cole        | 
+[17:55:49]  |                                     | 
+[17:55:49]  ======================================= 
+[17:55:49]  
+[17:55:49] 
+Progress Bar Editor loaded!
+[17:55:49] Use the /bar command to begin editing.
+
+[17:55:49]   Loaded 3 filterscripts.
+
+[17:55:49]  
+[17:55:49]  
+[17:55:49]  
+[17:55:49]  ======================================= 
+[17:55:49]  |                                     | 
+[17:55:49]  |        YSI version 4.00.0001        | 
+[17:55:49]  |        By Alex "Y_Less" Cole        | 
+[17:55:49]  |                                     | 
+[17:55:49]  ======================================= 
+[17:55:49]  
+[17:55:52] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[17:55:52] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[17:55:52] MySQL connection is successful.
+[17:55:52] [Object] Number of Dynamic objects loaded: 7465
+[17:55:52] Number of vehicle models: 28
+[17:55:52] [Server] Number of Loaded Data Server...
+[17:55:52] [Server] ServerMoney: 1454115536
+[17:55:52] [Houses] Number of Loaded: 1.
+[17:55:52] [Bisnis] Number of Loaded: 1.
+[17:55:52] [Dynamic Locker Faction] Number of Loaded: 6.
+[17:55:52] [Dynamic ATM] Number of Loaded: 10.
+[17:55:52] [Gates] Number of Gates loaded: 3.
+[17:55:52] [Dynamic Vouchers] Number of Loaded: 1.
+[17:55:52] [Dynamic Tree] Number of Loaded: 31.
+[17:55:52] [Dynamic Ore] Number of Loaded: 25.
+[17:56:04] [connection] 182.2.44.156:53763 requests connection cookie.
+[17:56:04] [connection] incoming connection: 182.2.44.156:53763 id: 0
+[17:56:04] [join] Flesyah has joined the server (0:182.2.44.156)
+[18:03:32] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:16:21] password = ""  (string)
+[18:16:21] 
+[18:16:21] Server Plugins
+[18:16:21] --------------
+[18:16:21]  Loading plugin: crashdetect
+[18:16:21]   CrashDetect plugin 4.19.4
+[18:16:21]   Loaded.
+[18:16:21]  Loading plugin: irc
+[18:16:21]   Failed.
+[18:16:21]  Loading plugin: mysql
+[18:16:21]  >> plugin.mysql: R41-4 successfully loaded.
+[18:16:21]   Loaded.
+[18:16:21]  Loading plugin: sscanf
+[18:16:21] 
+
+[18:16:21]  ===============================
+
+[18:16:21]       sscanf plugin loaded.     
+
+[18:16:21]          Version:  2.8.3        
+
+[18:16:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:16:21]  ===============================
+
+[18:16:21]   Loaded.
+[18:16:21]  Loading plugin: discord-connector
+[18:16:22]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: streamer
+[18:16:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: CTime
+[18:16:22]   Failed.
+[18:16:22]  Loading plugin: pawncmd
+[18:16:22] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: gvar
+[18:16:22] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: pawn-memory
+[18:16:22] ========================
+[18:16:22] = Memory access plugin =
+[18:16:22] =       Made by BigETI =
+[18:16:22] = Loaded!              =
+[18:16:22] ========================
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: timerfix
+[18:16:22]   >> TimerFix v1.7 successfully loaded.
+[18:16:22]   Loaded.
+[18:16:22]  Loading plugin: nativechecker
+[18:16:22]   Loaded.
+[18:16:22]  Loaded 10 plugins.
+
+[18:16:23] 
+[18:16:23] Ban list
+[18:16:23] --------
+[18:16:23]  Loaded: samp.ban
+[18:16:23] 
+[18:16:23] 
+[18:16:23] Filterscripts
+[18:16:23] ---------------
+[18:16:23]   Loading filterscript 'object.amx'...
+[18:16:23]   Loading filterscript 'Buttons.amx'...
+[18:16:23]   Loading filterscript 'progressbar.amx'...
+[18:16:23]  
+[18:16:23]  
+[18:16:23]  
+[18:16:23]  ======================================= 
+[18:16:23]  |                                     | 
+[18:16:23]  |        YSI version 4.00.0001        | 
+[18:16:23]  |        By Alex "Y_Less" Cole        | 
+[18:16:23]  |                                     | 
+[18:16:23]  ======================================= 
+[18:16:23]  
+[18:16:23] 
+Progress Bar Editor loaded!
+[18:16:23] Use the /bar command to begin editing.
+
+[18:16:23]   Loaded 3 filterscripts.
+
+[18:16:23]  
+[18:16:23]  
+[18:16:23]  
+[18:16:23]  ======================================= 
+[18:16:23]  |                                     | 
+[18:16:23]  |        YSI version 4.00.0001        | 
+[18:16:23]  |        By Alex "Y_Less" Cole        | 
+[18:16:23]  |                                     | 
+[18:16:23]  ======================================= 
+[18:16:23]  
+[18:16:25] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[18:16:25] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[18:16:25] MySQL connection is successful.
+[18:16:25] [Object] Number of Dynamic objects loaded: 7465
+[18:16:25] Number of vehicle models: 28
+[18:16:25] [Server] Number of Loaded Data Server...
+[18:16:25] [Server] ServerMoney: 1454115536
+[18:16:25] [Houses] Number of Loaded: 1.
+[18:16:25] [Bisnis] Number of Loaded: 1.
+[18:16:25] [Dynamic Locker Faction] Number of Loaded: 6.
+[18:16:25] [Dynamic ATM] Number of Loaded: 10.
+[18:16:25] [Gates] Number of Gates loaded: 3.
+[18:16:25] [Dynamic Vouchers] Number of Loaded: 1.
+[18:16:25] [Dynamic Tree] Number of Loaded: 31.
+[18:16:25] [Dynamic Ore] Number of Loaded: 25.
+[18:16:35] [connection] 182.2.44.156:49961 requests connection cookie.
+[18:16:36] [connection] incoming connection: 182.2.44.156:49961 id: 0
+[18:16:36] [join] Flesyah has joined the server (0:182.2.44.156)
+[18:16:44] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[18:16:44] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[18:17:11] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[18:17:35] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:02:37] password = ""  (string)
+[09:02:37] 
+[09:02:37] Server Plugins
+[09:02:37] --------------
+[09:02:37]  Loading plugin: crashdetect
+[09:02:37]   CrashDetect plugin 4.19.4
+[09:02:37]   Loaded.
+[09:02:37]  Loading plugin: irc
+[09:02:37]   Failed.
+[09:02:37]  Loading plugin: mysql
+[09:02:37]  >> plugin.mysql: R41-4 successfully loaded.
+[09:02:37]   Loaded.
+[09:02:37]  Loading plugin: sscanf
+[09:02:37] 
+
+[09:02:37]  ===============================
+
+[09:02:37]       sscanf plugin loaded.     
+
+[09:02:37]          Version:  2.8.3        
+
+[09:02:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:02:37]  ===============================
+
+[09:02:37]   Loaded.
+[09:02:37]  Loading plugin: discord-connector
+[09:02:39]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[09:02:39]   Loaded.
+[09:02:39]  Loading plugin: streamer
+[09:02:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:02:39]   Loaded.
+[09:02:39]  Loading plugin: CTime
+[09:02:39]   Failed.
+[09:02:39]  Loading plugin: pawncmd
+[09:02:39] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:02:39]   Loaded.
+[09:02:39]  Loading plugin: gvar
+[09:02:39] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:02:39]   Loaded.
+[09:02:39]  Loading plugin: pawn-memory
+[09:02:39] ========================
+[09:02:39] = Memory access plugin =
+[09:02:39] =       Made by BigETI =
+[09:02:39] = Loaded!              =
+[09:02:39] ========================
+[09:02:39]   Loaded.
+[09:02:39]  Loading plugin: timerfix
+[09:02:39]   >> TimerFix v1.7 successfully loaded.
+[09:02:39]   Loaded.
+[09:02:39]  Loading plugin: nativechecker
+[09:02:39]   Loaded.
+[09:02:39]  Loaded 10 plugins.
+
+[09:02:39] 
+[09:02:39] Ban list
+[09:02:39] --------
+[09:02:39]  Loaded: samp.ban
+[09:02:39] 
+[09:02:39] 
+[09:02:39] Filterscripts
+[09:02:39] ---------------
+[09:02:39]   Loading filterscript 'object.amx'...
+[09:02:39]   Loading filterscript 'Buttons.amx'...
+[09:02:39]   Loading filterscript 'progressbar.amx'...
+[09:02:39]  
+[09:02:39]  
+[09:02:39]  
+[09:02:39]  ======================================= 
+[09:02:39]  |                                     | 
+[09:02:39]  |        YSI version 4.00.0001        | 
+[09:02:39]  |        By Alex "Y_Less" Cole        | 
+[09:02:39]  |                                     | 
+[09:02:39]  ======================================= 
+[09:02:39]  
+[09:02:39] 
+Progress Bar Editor loaded!
+[09:02:39] Use the /bar command to begin editing.
+
+[09:02:39]   Loaded 3 filterscripts.
+
+[09:02:39]  
+[09:02:39]  
+[09:02:39]  
+[09:02:39]  ======================================= 
+[09:02:39]  |                                     | 
+[09:02:39]  |        YSI version 4.00.0001        | 
+[09:02:39]  |        By Alex "Y_Less" Cole        | 
+[09:02:39]  |                                     | 
+[09:02:39]  ======================================= 
+[09:02:39]  
+[09:02:41] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:02:41] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:02:41] MySQL connection is successful.
+[09:02:41] [Object] Number of Dynamic objects loaded: 7465
+[09:02:41] Number of vehicle models: 28
+[09:02:41] [Server] Number of Loaded Data Server...
+[09:02:41] [Server] ServerMoney: 1454115536
+[09:02:41] [Houses] Number of Loaded: 1.
+[09:02:41] [Bisnis] Number of Loaded: 1.
+[09:02:41] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:02:41] [Dynamic ATM] Number of Loaded: 10.
+[09:02:41] [Gates] Number of Gates loaded: 3.
+[09:02:41] [Dynamic Vouchers] Number of Loaded: 1.
+[09:02:41] [Dynamic Tree] Number of Loaded: 31.
+[09:02:41] [Dynamic Ore] Number of Loaded: 25.
+[09:02:58] [connection] 182.2.78.32:54937 requests connection cookie.
+[09:02:58] [connection] incoming connection: 182.2.78.32:54937 id: 0
+[09:02:58] [join] Flesyah has joined the server (0:182.2.78.32)
+[09:03:07] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[09:03:07] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[09:03:36] [CMD]: Felix_Flesyah(0) has used the command 'sethp' (0 50)
+[09:05:13] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:16:17] password = ""  (string)
+[09:16:17] 
+[09:16:17] Server Plugins
+[09:16:17] --------------
+[09:16:17]  Loading plugin: crashdetect
+[09:16:17]   CrashDetect plugin 4.19.4
+[09:16:17]   Loaded.
+[09:16:17]  Loading plugin: irc
+[09:16:17]   Failed.
+[09:16:17]  Loading plugin: mysql
+[09:16:17]  >> plugin.mysql: R41-4 successfully loaded.
+[09:16:17]   Loaded.
+[09:16:17]  Loading plugin: sscanf
+[09:16:17] 
+
+[09:16:17]  ===============================
+
+[09:16:17]       sscanf plugin loaded.     
+
+[09:16:17]          Version:  2.8.3        
+
+[09:16:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:16:17]  ===============================
+
+[09:16:17]   Loaded.
+[09:16:17]  Loading plugin: discord-connector
+[09:16:19]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[09:16:19]   Loaded.
+[09:16:19]  Loading plugin: streamer
+[09:16:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:16:19]   Loaded.
+[09:16:19]  Loading plugin: CTime
+[09:16:19]   Failed.
+[09:16:19]  Loading plugin: pawncmd
+[09:16:19] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:16:19]   Loaded.
+[09:16:19]  Loading plugin: gvar
+[09:16:19] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:16:19]   Loaded.
+[09:16:19]  Loading plugin: pawn-memory
+[09:16:19] ========================
+[09:16:19] = Memory access plugin =
+[09:16:19] =       Made by BigETI =
+[09:16:19] = Loaded!              =
+[09:16:19] ========================
+[09:16:19]   Loaded.
+[09:16:19]  Loading plugin: timerfix
+[09:16:19]   >> TimerFix v1.7 successfully loaded.
+[09:16:19]   Loaded.
+[09:16:19]  Loading plugin: nativechecker
+[09:16:19]   Loaded.
+[09:16:19]  Loaded 10 plugins.
+
+[09:16:19] 
+[09:16:19] Ban list
+[09:16:19] --------
+[09:16:19]  Loaded: samp.ban
+[09:16:19] 
+[09:16:19] 
+[09:16:19] Filterscripts
+[09:16:19] ---------------
+[09:16:19]   Loading filterscript 'object.amx'...
+[09:16:19]   Loading filterscript 'Buttons.amx'...
+[09:16:19]   Loading filterscript 'progressbar.amx'...
+[09:16:19]  
+[09:16:19]  
+[09:16:19]  
+[09:16:19]  ======================================= 
+[09:16:19]  |                                     | 
+[09:16:19]  |        YSI version 4.00.0001        | 
+[09:16:19]  |        By Alex "Y_Less" Cole        | 
+[09:16:19]  |                                     | 
+[09:16:19]  ======================================= 
+[09:16:19]  
+[09:16:19] 
+Progress Bar Editor loaded!
+[09:16:19] Use the /bar command to begin editing.
+
+[09:16:19]   Loaded 3 filterscripts.
+
+[09:16:19] *** Streamer Plugin: Include file version (unknown version) does not match plugin version (0x294) (script might need to be recompiled with the correct include file).
+[09:16:19] [Pawn.CMD] DoAmxLoad: Mismatch between the plugin (332) and include (0) versions
+[09:16:19]    Error: Function not registered: 'PC_Init'
+[09:16:19]    Error: Function not registered: 'PC_RegAlias'
+[09:16:19] [debug] Run time error 19: "File or function is not found"
+[09:16:19] [debug]  PC_Init
+[09:16:19] [debug]  PC_RegAlias
+[09:16:19] [debug] Run time error 19: "File or function is not found"
+[09:16:19] [debug]  PC_Init
+[09:16:19] [debug]  PC_RegAlias
+[09:16:19] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[09:16:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:16:26] password = ""  (string)
+[09:16:26] 
+[09:16:26] Server Plugins
+[09:16:26] --------------
+[09:16:26]  Loading plugin: crashdetect
+[09:16:26]   CrashDetect plugin 4.19.4
+[09:16:26]   Loaded.
+[09:16:26]  Loading plugin: irc
+[09:16:26]   Failed.
+[09:16:26]  Loading plugin: mysql
+[09:16:26]  >> plugin.mysql: R41-4 successfully loaded.
+[09:16:26]   Loaded.
+[09:16:26]  Loading plugin: sscanf
+[09:16:26] 
+
+[09:16:26]  ===============================
+
+[09:16:26]       sscanf plugin loaded.     
+
+[09:16:26]          Version:  2.8.3        
+
+[09:16:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:16:26]  ===============================
+
+[09:16:26]   Loaded.
+[09:16:26]  Loading plugin: discord-connector
+[09:16:28]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[09:16:28]   Loaded.
+[09:16:28]  Loading plugin: streamer
+[09:16:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:16:28]   Loaded.
+[09:16:28]  Loading plugin: CTime
+[09:16:28]   Failed.
+[09:16:28]  Loading plugin: pawncmd
+[09:16:28] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:16:28]   Loaded.
+[09:16:28]  Loading plugin: gvar
+[09:16:28] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[09:16:28]   Loaded.
+[09:16:28]  Loading plugin: pawn-memory
+[09:16:28] ========================
+[09:16:28] = Memory access plugin =
+[09:16:28] =       Made by BigETI =
+[09:16:28] = Loaded!              =
+[09:16:28] ========================
+[09:16:28]   Loaded.
+[09:16:28]  Loading plugin: timerfix
+[09:16:28]   >> TimerFix v1.7 successfully loaded.
+[09:16:28]   Loaded.
+[09:16:28]  Loading plugin: nativechecker
+[09:16:28]   Loaded.
+[09:16:28]  Loaded 10 plugins.
+
+[09:16:28] 
+[09:16:28] Ban list
+[09:16:28] --------
+[09:16:28]  Loaded: samp.ban
+[09:16:28] 
+[09:16:28] 
+[09:16:28] Filterscripts
+[09:16:28] ---------------
+[09:16:28]   Loading filterscript 'object.amx'...
+[09:16:28]   Loading filterscript 'Buttons.amx'...
+[09:16:28]   Loading filterscript 'progressbar.amx'...
+[09:16:28]  
+[09:16:28]  
+[09:16:28]  
+[09:16:28]  ======================================= 
+[09:16:28]  |                                     | 
+[09:16:28]  |        YSI version 4.00.0001        | 
+[09:16:28]  |        By Alex "Y_Less" Cole        | 
+[09:16:28]  |                                     | 
+[09:16:28]  ======================================= 
+[09:16:28]  
+[09:16:28] 
+Progress Bar Editor loaded!
+[09:16:28] Use the /bar command to begin editing.
+
+[09:16:28]   Loaded 3 filterscripts.
+
+[09:16:28]  
+[09:16:28]  
+[09:16:28]  
+[09:16:28]  ======================================= 
+[09:16:28]  |                                     | 
+[09:16:28]  |        YSI version 4.00.0001        | 
+[09:16:28]  |        By Alex "Y_Less" Cole        | 
+[09:16:28]  |                                     | 
+[09:16:28]  ======================================= 
+[09:16:28]  
+[09:16:30] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[09:16:30] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[09:16:30] MySQL connection is successful.
+[09:16:30] [Object] Number of Dynamic objects loaded: 7465
+[09:16:30] Number of vehicle models: 28
+[09:16:30] [Server] Number of Loaded Data Server...
+[09:16:30] [Server] ServerMoney: 1454115536
+[09:16:30] [Houses] Number of Loaded: 1.
+[09:16:30] [Bisnis] Number of Loaded: 1.
+[09:16:30] [Dynamic Locker Faction] Number of Loaded: 6.
+[09:16:30] [Dynamic ATM] Number of Loaded: 10.
+[09:16:30] [Gates] Number of Gates loaded: 3.
+[09:16:30] [Dynamic Vouchers] Number of Loaded: 1.
+[09:16:30] [Dynamic Tree] Number of Loaded: 31.
+[09:16:30] [Dynamic Ore] Number of Loaded: 25.
+[09:16:40] [connection] 182.2.78.32:40693 requests connection cookie.
+[09:16:40] [connection] incoming connection: 182.2.78.32:40693 id: 0
+[09:16:41] [join] Flesyah has joined the server (0:182.2.78.32)
+[09:16:49] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[09:16:49] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[09:18:21] [CMD]: Felix_Flesyah(0) has used the command 'ahelp' ()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:12:25] password = ""  (string)
+[10:12:25] 
+[10:12:25] Server Plugins
+[10:12:25] --------------
+[10:12:25]  Loading plugin: crashdetect
+[10:12:25]   CrashDetect plugin 4.19.4
+[10:12:25]   Loaded.
+[10:12:25]  Loading plugin: irc
+[10:12:25]   Failed.
+[10:12:25]  Loading plugin: mysql
+[10:12:25]  >> plugin.mysql: R41-4 successfully loaded.
+[10:12:25]   Loaded.
+[10:12:25]  Loading plugin: sscanf
+[10:12:25] 
+
+[10:12:25]  ===============================
+
+[10:12:25]       sscanf plugin loaded.     
+
+[10:12:25]          Version:  2.8.3        
+
+[10:12:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:12:25]  ===============================
+
+[10:12:25]   Loaded.
+[10:12:25]  Loading plugin: discord-connector
+[10:12:27]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[10:12:27]   Loaded.
+[10:12:27]  Loading plugin: streamer
+[10:12:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:12:27]   Loaded.
+[10:12:27]  Loading plugin: CTime
+[10:12:27]   Failed.
+[10:12:27]  Loading plugin: pawncmd
+[10:12:27] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:12:27]   Loaded.
+[10:12:27]  Loading plugin: gvar
+[10:12:27] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:12:27]   Loaded.
+[10:12:27]  Loading plugin: pawn-memory
+[10:12:27] ========================
+[10:12:27] = Memory access plugin =
+[10:12:27] =       Made by BigETI =
+[10:12:27] = Loaded!              =
+[10:12:27] ========================
+[10:12:27]   Loaded.
+[10:12:27]  Loading plugin: timerfix
+[10:12:27]   >> TimerFix v1.7 successfully loaded.
+[10:12:27]   Loaded.
+[10:12:27]  Loading plugin: nativechecker
+[10:12:27]   Loaded.
+[10:12:27]  Loaded 10 plugins.
+
+[10:12:27] 
+[10:12:27] Ban list
+[10:12:27] --------
+[10:12:27]  Loaded: samp.ban
+[10:12:27] 
+[10:12:27] 
+[10:12:27] Filterscripts
+[10:12:27] ---------------
+[10:12:27]   Loading filterscript 'object.amx'...
+[10:12:27]   Loading filterscript 'Buttons.amx'...
+[10:12:27]   Loading filterscript 'progressbar.amx'...
+[10:12:27]  
+[10:12:27]  
+[10:12:27]  
+[10:12:27]  ======================================= 
+[10:12:27]  |                                     | 
+[10:12:27]  |        YSI version 4.00.0001        | 
+[10:12:27]  |        By Alex "Y_Less" Cole        | 
+[10:12:27]  |                                     | 
+[10:12:27]  ======================================= 
+[10:12:27]  
+[10:12:27] 
+Progress Bar Editor loaded!
+[10:12:27] Use the /bar command to begin editing.
+
+[10:12:27]   Loaded 3 filterscripts.
+
+[10:12:27]  
+[10:12:27]  
+[10:12:27]  
+[10:12:27]  ======================================= 
+[10:12:27]  |                                     | 
+[10:12:27]  |        YSI version 4.00.0001        | 
+[10:12:27]  |        By Alex "Y_Less" Cole        | 
+[10:12:27]  |                                     | 
+[10:12:27]  ======================================= 
+[10:12:27]  
+[10:12:29] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:12:29] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:12:29] MySQL connection is successful.
+[10:12:29] [Object] Number of Dynamic objects loaded: 7465
+[10:12:29] Number of vehicle models: 28
+[10:12:29] [Server] Number of Loaded Data Server...
+[10:12:29] [Server] ServerMoney: 1454115536
+[10:12:29] [Houses] Number of Loaded: 1.
+[10:12:29] [Bisnis] Number of Loaded: 1.
+[10:12:29] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:12:29] [Dynamic ATM] Number of Loaded: 10.
+[10:12:29] [Gates] Number of Gates loaded: 3.
+[10:12:29] [Dynamic Vouchers] Number of Loaded: 1.
+[10:12:29] [Dynamic Tree] Number of Loaded: 31.
+[10:12:29] [Dynamic Ore] Number of Loaded: 25.
+[10:13:01] [connection] 182.2.78.32:49029 requests connection cookie.
+[10:13:01] [connection] incoming connection: 182.2.78.32:49029 id: 0
+[10:13:02] [join] Flesyah has joined the server (0:182.2.78.32)
+[10:13:10] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[10:13:10] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[10:13:52] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:22:18] password = ""  (string)
+[10:22:18] 
+[10:22:18] Server Plugins
+[10:22:18] --------------
+[10:22:18]  Loading plugin: crashdetect
+[10:22:18]   CrashDetect plugin 4.19.4
+[10:22:18]   Loaded.
+[10:22:18]  Loading plugin: irc
+[10:22:18]   Failed.
+[10:22:18]  Loading plugin: mysql
+[10:22:18]  >> plugin.mysql: R41-4 successfully loaded.
+[10:22:18]   Loaded.
+[10:22:18]  Loading plugin: sscanf
+[10:22:18] 
+
+[10:22:18]  ===============================
+
+[10:22:18]       sscanf plugin loaded.     
+
+[10:22:18]          Version:  2.8.3        
+
+[10:22:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:22:18]  ===============================
+
+[10:22:18]   Loaded.
+[10:22:18]  Loading plugin: discord-connector
+[10:22:19]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[10:22:19]   Loaded.
+[10:22:19]  Loading plugin: streamer
+[10:22:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:22:19]   Loaded.
+[10:22:19]  Loading plugin: CTime
+[10:22:19]   Failed.
+[10:22:19]  Loading plugin: pawncmd
+[10:22:19] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:22:19]   Loaded.
+[10:22:19]  Loading plugin: gvar
+[10:22:19] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:22:19]   Loaded.
+[10:22:19]  Loading plugin: pawn-memory
+[10:22:19] ========================
+[10:22:19] = Memory access plugin =
+[10:22:19] =       Made by BigETI =
+[10:22:19] = Loaded!              =
+[10:22:19] ========================
+[10:22:19]   Loaded.
+[10:22:19]  Loading plugin: timerfix
+[10:22:19]   >> TimerFix v1.7 successfully loaded.
+[10:22:19]   Loaded.
+[10:22:19]  Loading plugin: nativechecker
+[10:22:19]   Loaded.
+[10:22:19]  Loaded 10 plugins.
+
+[10:22:19] 
+[10:22:19] Ban list
+[10:22:19] --------
+[10:22:19]  Loaded: samp.ban
+[10:22:19] 
+[10:22:19] 
+[10:22:19] Filterscripts
+[10:22:19] ---------------
+[10:22:19]   Loading filterscript 'object.amx'...
+[10:22:19]   Loading filterscript 'Buttons.amx'...
+[10:22:19]   Loading filterscript 'progressbar.amx'...
+[10:22:19]  
+[10:22:19]  
+[10:22:19]  
+[10:22:19]  ======================================= 
+[10:22:19]  |                                     | 
+[10:22:19]  |        YSI version 4.00.0001        | 
+[10:22:19]  |        By Alex "Y_Less" Cole        | 
+[10:22:19]  |                                     | 
+[10:22:19]  ======================================= 
+[10:22:19]  
+[10:22:19] 
+Progress Bar Editor loaded!
+[10:22:19] Use the /bar command to begin editing.
+
+[10:22:19]   Loaded 3 filterscripts.
+
+[10:22:19]  
+[10:22:19]  
+[10:22:19]  
+[10:22:19]  ======================================= 
+[10:22:19]  |                                     | 
+[10:22:19]  |        YSI version 4.00.0001        | 
+[10:22:19]  |        By Alex "Y_Less" Cole        | 
+[10:22:19]  |                                     | 
+[10:22:19]  ======================================= 
+[10:22:19]  
+[10:22:21] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[10:22:21] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:22:21] MySQL connection is successful.
+[10:22:21] [Object] Number of Dynamic objects loaded: 7465
+[10:22:21] Number of vehicle models: 28
+[10:22:21] [Server] Number of Loaded Data Server...
+[10:22:21] [Server] ServerMoney: 1454115536
+[10:22:21] [Houses] Number of Loaded: 1.
+[10:22:21] [Bisnis] Number of Loaded: 1.
+[10:22:21] [Dynamic Locker Faction] Number of Loaded: 6.
+[10:22:21] [Dynamic ATM] Number of Loaded: 10.
+[10:22:21] [Gates] Number of Gates loaded: 3.
+[10:22:21] [Dynamic Vouchers] Number of Loaded: 1.
+[10:22:21] [Dynamic Tree] Number of Loaded: 31.
+[10:22:21] [Dynamic Ore] Number of Loaded: 25.
+[10:22:37] [connection] 182.2.78.32:36225 requests connection cookie.
+[10:22:37] [connection] incoming connection: 182.2.78.32:36225 id: 0
+[10:22:38] [join] Flesyah has joined the server (0:182.2.78.32)
+[10:22:49] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[10:22:49] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[10:23:02] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 100)
+[10:23:16] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 45)
+[10:23:43] [CMD]: Felix_Flesyah(0) has used the command 'gps' ()
+[10:23:52] [CMD]: Felix_Flesyah(0) has used the command 'aduty' ()
+[10:24:07] [CMD]: Felix_Flesyah(0) has used the command 'setadminname' (0 Flesyah)
+[10:24:12] [CMD]: Felix_Flesyah(0) has used the command 'aduty' ()
+[10:24:44] [CMD]: Felix_Flesyah(0) has used the command 'stats' ()
+[10:25:45] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' ()
+[10:25:48] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' ()
+[10:25:54] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 locked 0)
+[10:26:13] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 type)
+[10:26:17] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 type 1)
+[10:26:32] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 point)
+[10:26:37] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:26:53] [CMD]: Felix_Flesyah(0) has used the command 'editbisnis' (0 product 25000)
+[10:26:57] [CMD]: Felix_Flesyah(0) has used the command 'bm' ()
+[10:27:03] [CMD]: Felix_Flesyah(0) has used the command 'bm' ()
+[10:27:14] [CMD]: Felix_Flesyah(0) has used the command 'bm' ()
+[10:27:17] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:27:26] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:27:37] [CMD]: Felix_Flesyah(0) has used the command 'bm' ()
+[10:27:48] [CMD]: Felix_Flesyah(0) has used the command 'buy' ()
+[10:29:26] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[10:29:42] [CMD]: Felix_Flesyah(0) has used the command 'piss' ()
+[10:30:25] [CMD]: Felix_Flesyah(0) has used the command 'gate' ()
+[10:31:01] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (55)
+[10:31:08] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 55)
+[10:31:14] [CMD]: Felix_Flesyah(0) has used the command 'settings' ()
+[10:31:22] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 51)
+[10:31:26] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 49)
+[10:31:31] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 0)
+[10:31:50] [part] Flesyah has left the server (0:0)
+[00:56:37] [connection] 182.2.46.244:37120 requests connection cookie.
+[00:56:37] [connection] incoming connection: 182.2.46.244:37120 id: 0
+[00:56:38] [join] Flesyah has joined the server (0:182.2.46.244)
+[00:56:46] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[00:56:46] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[00:57:10] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 100)
+[00:58:14] [CMD]: Felix_Flesyah(0) has used the command 'veh' (522 2 2)
+[00:58:41] [CMD]: Felix_Flesyah(0) has used the command 'v' (engine)
+[00:59:41] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:59:47] password = ""  (string)
+[00:59:47] 
+[00:59:47] Server Plugins
+[00:59:47] --------------
+[00:59:47]  Loading plugin: crashdetect
+[00:59:48]   CrashDetect plugin 4.19.4
+[00:59:48]   Loaded.
+[00:59:48]  Loading plugin: irc
+[00:59:48]   Failed.
+[00:59:48]  Loading plugin: mysql
+[00:59:48]  >> plugin.mysql: R41-4 successfully loaded.
+[00:59:48]   Loaded.
+[00:59:48]  Loading plugin: sscanf
+[00:59:48] 
+
+[00:59:48]  ===============================
+
+[00:59:48]       sscanf plugin loaded.     
+
+[00:59:48]          Version:  2.8.3        
+
+[00:59:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:59:48]  ===============================
+
+[00:59:48]   Loaded.
+[00:59:48]  Loading plugin: discord-connector
+[00:59:50]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[00:59:50]   Loaded.
+[00:59:50]  Loading plugin: streamer
+[00:59:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:59:50]   Loaded.
+[00:59:50]  Loading plugin: CTime
+[00:59:50]   Failed.
+[00:59:50]  Loading plugin: pawncmd
+[00:59:50] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:59:50]   Loaded.
+[00:59:50]  Loading plugin: gvar
+[00:59:50] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[00:59:50]   Loaded.
+[00:59:50]  Loading plugin: pawn-memory
+[00:59:50] ========================
+[00:59:50] = Memory access plugin =
+[00:59:50] =       Made by BigETI =
+[00:59:50] = Loaded!              =
+[00:59:50] ========================
+[00:59:50]   Loaded.
+[00:59:50]  Loading plugin: timerfix
+[00:59:50]   >> TimerFix v1.7 successfully loaded.
+[00:59:50]   Loaded.
+[00:59:50]  Loading plugin: nativechecker
+[00:59:50]   Loaded.
+[00:59:50]  Loaded 10 plugins.
+
+[00:59:50] 
+[00:59:50] Ban list
+[00:59:50] --------
+[00:59:50]  Loaded: samp.ban
+[00:59:50] 
+[00:59:50] 
+[00:59:50] Filterscripts
+[00:59:50] ---------------
+[00:59:50]   Loading filterscript 'Buttons.amx'...
+[00:59:50]   Loading filterscript 'progressbar.amx'...
+[00:59:50]  
+[00:59:50]  
+[00:59:50]  
+[00:59:50]  ======================================= 
+[00:59:50]  |                                     | 
+[00:59:50]  |        YSI version 4.00.0001        | 
+[00:59:50]  |        By Alex "Y_Less" Cole        | 
+[00:59:50]  |                                     | 
+[00:59:50]  ======================================= 
+[00:59:50]  
+[00:59:50] 
+Progress Bar Editor loaded!
+[00:59:50] Use the /bar command to begin editing.
+
+[00:59:50]   Loaded 2 filterscripts.
+
+[00:59:51]  
+[00:59:51]  
+[00:59:51]  
+[00:59:51]  ======================================= 
+[00:59:51]  |                                     | 
+[00:59:51]  |        YSI version 4.00.0001        | 
+[00:59:51]  |        By Alex "Y_Less" Cole        | 
+[00:59:51]  |                                     | 
+[00:59:51]  ======================================= 
+[00:59:51]  
+[00:59:53] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[00:59:53] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[00:59:53] MySQL connection is successful.
+[00:59:53] [Object] Number of Dynamic objects loaded: 417
+[00:59:53] Number of vehicle models: 28
+[00:59:53] [Server] Number of Loaded Data Server...
+[00:59:53] [Server] ServerMoney: 1454115540
+[00:59:53] [Houses] Number of Loaded: 1.
+[00:59:53] [Bisnis] Number of Loaded: 1.
+[00:59:53] [Dynamic Locker Faction] Number of Loaded: 6.
+[00:59:53] [Dynamic ATM] Number of Loaded: 10.
+[00:59:53] [Gates] Number of Gates loaded: 3.
+[00:59:53] [Dynamic Vouchers] Number of Loaded: 1.
+[00:59:53] [Dynamic Tree] Number of Loaded: 31.
+[00:59:53] [Dynamic Ore] Number of Loaded: 25.
+[01:00:01] [connection] 182.2.46.244:50367 requests connection cookie.
+[01:00:01] [connection] incoming connection: 182.2.46.244:50367 id: 0
+[01:00:02] [join] Flesyah has joined the server (0:182.2.46.244)
+[01:00:07] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[01:00:07] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[01:00:35] [part] Flesyah has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:11:47] password = ""  (string)
+[23:11:47] 
+[23:11:47] Server Plugins
+[23:11:47] --------------
+[23:11:47]  Loading plugin: crashdetect
+[23:11:47]   CrashDetect plugin 4.19.4
+[23:11:47]   Loaded.
+[23:11:47]  Loading plugin: irc
+[23:11:47]   Failed.
+[23:11:47]  Loading plugin: mysql
+[23:11:47]  >> plugin.mysql: R41-4 successfully loaded.
+[23:11:47]   Loaded.
+[23:11:47]  Loading plugin: sscanf
+[23:11:47] 
+
+[23:11:47]  ===============================
+
+[23:11:47]       sscanf plugin loaded.     
+
+[23:11:47]          Version:  2.8.3        
+
+[23:11:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:11:47]  ===============================
+
+[23:11:47]   Loaded.
+[23:11:47]  Loading plugin: discord-connector
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:00] password = ""  (string)
+[23:12:00] 
+[23:12:00] Server Plugins
+[23:12:00] --------------
+[23:12:00]  Loading plugin: crashdetect
+[23:12:00]   CrashDetect plugin 4.19.4
+[23:12:00]   Loaded.
+[23:12:00]  Loading plugin: irc
+[23:12:00]   Failed.
+[23:12:00]  Loading plugin: mysql
+[23:12:00]  >> plugin.mysql: R41-4 successfully loaded.
+[23:12:00]   Loaded.
+[23:12:00]  Loading plugin: sscanf
+[23:12:00] 
+
+[23:12:00]  ===============================
+
+[23:12:00]       sscanf plugin loaded.     
+
+[23:12:00]          Version:  2.8.3        
+
+[23:12:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:12:00]  ===============================
+
+[23:12:00]   Loaded.
+[23:12:00]  Loading plugin: discord-connector
+[23:12:22]  >> plugin.dc-connector: timeout while initializing data.
+[23:12:22]                          plugin will proceed to retry connecting in the background.
+[23:12:22]   Loaded.
+[23:12:22]  Loading plugin: streamer
+[23:12:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:12:22]   Loaded.
+[23:12:22]  Loading plugin: CTime
+[23:12:22]   Failed.
+[23:12:22]  Loading plugin: pawncmd
+[23:12:22] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[23:12:22]   Loaded.
+[23:12:22]  Loading plugin: gvar
+[23:12:22] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[23:12:22]   Loaded.
+[23:12:22]  Loading plugin: pawn-memory
+[23:12:22] ========================
+[23:12:22] = Memory access plugin =
+[23:12:22] =       Made by BigETI =
+[23:12:22] = Loaded!              =
+[23:12:22] ========================
+[23:12:22]   Loaded.
+[23:12:22]  Loading plugin: timerfix
+[23:12:22]   >> TimerFix v1.7 successfully loaded.
+[23:12:22]   Loaded.
+[23:12:22]  Loading plugin: nativechecker
+[23:12:22]   Loaded.
+[23:12:22]  Loaded 10 plugins.
+
+[23:12:22] 
+[23:12:22] Ban list
+[23:12:22] --------
+[23:12:22]  Loaded: samp.ban
+[23:12:22] 
+[23:12:22] 
+[23:12:22] Filterscripts
+[23:12:22] ---------------
+[23:12:22]   Loading filterscript 'object.amx'...
+[23:12:22]   Loading filterscript 'Buttons.amx'...
+[23:12:22]   Loading filterscript 'progressbar.amx'...
+[23:12:22]  
+[23:12:22]  
+[23:12:22]  
+[23:12:22]  ======================================= 
+[23:12:22]  |                                     | 
+[23:12:22]  |        YSI version 4.00.0001        | 
+[23:12:22]  |        By Alex "Y_Less" Cole        | 
+[23:12:22]  |                                     | 
+[23:12:22]  ======================================= 
+[23:12:22]  
+[23:12:22] 
+Progress Bar Editor loaded!
+[23:12:22] Use the /bar command to begin editing.
+
+[23:12:22]   Loaded 3 filterscripts.
+
+[23:12:22]  
+[23:12:22]  
+[23:12:22]  
+[23:12:22]  ======================================= 
+[23:12:22]  |                                     | 
+[23:12:22]  |        YSI version 4.00.0001        | 
+[23:12:22]  |        By Alex "Y_Less" Cole        | 
+[23:12:22]  |                                     | 
+[23:12:22]  ======================================= 
+[23:12:22]  
+[23:12:23] [ADM] Info: Load 3DTryg v4.6.1 for SA:MP 0.3.7 by Abyss Morgan
+[23:12:23] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[23:12:23] MySQL connection is successful.
+[23:12:23] [Object] Number of Dynamic objects loaded: 7465
+[23:12:23] Number of vehicle models: 28
+[23:12:23] [Server] Number of Loaded Data Server...
+[23:12:23] [Server] ServerMoney: 1454115540
+[23:12:23] [Bisnis] Number of Loaded: 1.
+[23:12:23] [Dynamic Locker Faction] Number of Loaded: 6.
+[23:12:23] [Dynamic ATM] Number of Loaded: 10.
+[23:12:23] [Gates] Number of Gates loaded: 3.
+[23:12:23] [Dynamic Vouchers] Number of Loaded: 1.
+[23:12:23] [Dynamic Tree] Number of Loaded: 31.
+[23:12:23] [Dynamic Ore] Number of Loaded: 25.
+[23:14:33] [connection] 103.132.55.218:34758 requests connection cookie.
+[23:14:33] [connection] incoming connection: 103.132.55.218:34758 id: 0
+[23:14:34] [join] Flesyah has joined the server (0:103.132.55.218)
+[23:14:42] [OnDialogResponse]: Flesyah(0) has used dialog id: 24 Listitem: -1
+[23:14:42] [LOGIN] Flesyah(0) berhasil login dengan password(fatah123)
+[23:15:07] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' ()
+[23:15:12] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 50)
+[23:15:16] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 0)
+[23:15:20] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 100)
+[23:15:57] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 20)
+[23:16:03] [CMD]: Felix_Flesyah(0) has used the command 'sethbe' (0 100)
