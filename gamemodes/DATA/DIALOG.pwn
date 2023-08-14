@@ -293,21 +293,15 @@ Dialog:HBEMODE(playerid, response, listitem, inputtext[])
 		{
 			case 0://simple
 			{
-				HidePlayerProgressBar(playerid, pData[playerid][sphungrybar]);
-				HidePlayerProgressBar(playerid, pData[playerid][spenergybar]);
-				HidePlayerProgressBar(playerid, pData[playerid][spbladdybar]);
-				for(new txd = 12; txd > 11 && txd < 16; txd++)
+				for(new txd; txd < 30; txd++)
 				{
-					TextDrawHideForPlayer(playerid, TDEditor_TD[txd]);
+					TextDrawHideForPlayer(playerid, HBE[txd]);
+				}
+				for(new txdp; txdp < 11; txdp++)
+				{
+					PlayerTextDrawHide(playerid, HBEP[txdp][playerid]);
 				}
 				
-				PlayerTextDrawHide(playerid, PERSENBAR[playerid]);
-				PlayerTextDrawHide(playerid, BARPERSEN[playerid]);
-				for(new txd; txd < 10; txd++)
-				{
-					TextDrawHideForPlayer(playerid, BAR[txd]);
-				}
-
 				pData[playerid][pHBEMode] = 1;
 
 				ShowPlayerProgressBar(playerid, pData[playerid][sphungrybar]);
@@ -327,19 +321,17 @@ Dialog:HBEMODE(playerid, response, listitem, inputtext[])
 				{
 					TextDrawHideForPlayer(playerid, TDEditor_TD[txd]);
 				}
-
-				PlayerTextDrawHide(playerid, PERSENBAR[playerid]);
-				PlayerTextDrawHide(playerid, BARPERSEN[playerid]);
-				for(new txd; txd < 10; txd++)
-				{
-					TextDrawHideForPlayer(playerid, BAR[txd]);
-				}
+				
 
 				pData[playerid][pHBEMode] = 2;
 
-				for(new txd; txd < 10; txd++)
+				for(new txd; txd < 30; txd++)
 				{
-					TextDrawShowForPlayer(playerid, BAR[txd]);
+					TextDrawShowForPlayer(playerid, HBE[txd]);
+				}
+				for(new txdp; txdp < 11; txdp++)
+				{
+					PlayerTextDrawShow(playerid, HBEP[txdp][playerid]);
 				}
 			}
 			case 2:
@@ -354,13 +346,7 @@ Dialog:HBEMODE(playerid, response, listitem, inputtext[])
 					TextDrawHideForPlayer(playerid, TDEditor_TD[txd]);
 				}
 
-				HidePlayerProgressBar(playerid, pData[playerid][hungrybar]);
-				HidePlayerProgressBar(playerid, pData[playerid][energybar]);
-				HidePlayerProgressBar(playerid, pData[playerid][bladdybar]);
-				for(new txd; txd < 5; txd++)
-				{
-					TextDrawHideForPlayer(playerid, TDEditor_TD[txd]);
-				}
+				
 			}
 		}
 	}

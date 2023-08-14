@@ -1,4 +1,17 @@
 //-------------[ Player Commands ]-------------//
+CMD:testtd(playerid, params[])
+{
+	for(new txd; txd < 30; txd++)
+	{
+		TextDrawShowForPlayer(playerid, HBE[txd]);
+	}
+    for(new txd; txd < 11; txd++)
+	{
+		PlayerTextDrawShow(playerid, HBEP[txd][playerid]);
+	}
+	return 1;
+}
+	
 CMD:help(playerid, params[])
 {
 	Dialog_Show(playerid, HelpScreen, DIALOG_STYLE_LIST, "Help Menu", "Player\nChat\nVehicle\nJob\nFaction\nFamily\nBisnis\nHouse\nDonate\nServer Credits", "Select", "Close");
@@ -203,7 +216,7 @@ CMD:death(playerid, params[])
     return 1;
 }
 
-CMD:piss(playerid, params[])
+/*CMD:piss(playerid, params[])
 {
     if(pData[playerid][pInjured] == 1)
         return Error(playerid, "You can't use this command at the injured moment.");
@@ -212,7 +225,7 @@ CMD:piss(playerid, params[])
     SetTimerEx("UnfreezePee", time, 0, "i", playerid);
     SetPlayerSpecialAction(playerid, 68);
     return 1;
-}
+}*/
 
 CMD:sleep(playerid, params[])
 {

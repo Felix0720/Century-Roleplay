@@ -1183,7 +1183,7 @@ CMD:salve(playerid, params[])
 	//pData[otherid][pHospital] = 0;
 	pData[otherid][pHunger] += 20;
 	pData[otherid][pEnergy] += 20;
-	pData[otherid][pBladder] += 20;
+//	pData[otherid][pStress] += 20;
 	pData[otherid][pSick] = 0;
 	pData[otherid][pSickTime] = 0;
     ClearAnimations(otherid);

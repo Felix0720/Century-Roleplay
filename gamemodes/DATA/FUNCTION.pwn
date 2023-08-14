@@ -237,7 +237,7 @@ function AssignPlayerData(playerid)
 	cache_get_value_name_float(0, "health", pData[playerid][pHealth]);
 	cache_get_value_name_float(0, "armour", pData[playerid][pArmour]);
 	cache_get_value_name_int(0, "hunger", pData[playerid][pHunger]);
-	cache_get_value_name_int(0, "bladder", pData[playerid][pBladder]);
+	cache_get_value_name_int(0, "stress", pData[playerid][pStress]);
 	cache_get_value_name_int(0, "energy", pData[playerid][pEnergy]);
 	cache_get_value_name_int(0, "sick", pData[playerid][pSick]);
 	cache_get_value_name_int(0, "hospital", pData[playerid][pHospital]);
@@ -393,7 +393,7 @@ function OnPlayerRegister(playerid)
 	pData[playerid][pArmour] = 0.0;
 	pData[playerid][pLevel] = 1;
 	pData[playerid][pHunger] = 100;
-	pData[playerid][pBladder] = 100;
+	pData[playerid][pStress] = 0;
 	pData[playerid][pEnergy] = 100;
 	pData[playerid][pMoney] = 250;
 	pData[playerid][pBankMoney] = 200;
@@ -812,7 +812,7 @@ function DragUpdate(playerid, targetid)
 function UnfreezePee(playerid)
 {
     TogglePlayerControllable(playerid, 1);
-    pData[playerid][pBladder] = 100;
+ //   pData[playerid][pStress] = 100;
     ClearAnimations(playerid);
 	StopLoopingAnim(playerid);
 	SetPlayerSpecialAction(playerid, SPECIAL_ACTION_NONE);

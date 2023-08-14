@@ -116,7 +116,7 @@ UpdatePlayerData(playerid)
 	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`health` = '%f', ", cQuery, pData[playerid][pHealth]);
 	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`armour` = '%f', ", cQuery, pData[playerid][pArmour]);
 	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`hunger` = '%d', ", cQuery, pData[playerid][pHunger]);
-	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`bladder` = '%d', ", cQuery, pData[playerid][pBladder]);
+	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`stress` = '%d', ", cQuery, pData[playerid][pStress]);
 	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`energy` = '%d', ", cQuery, pData[playerid][pEnergy]);
 	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`sick` = '%d', ", cQuery, pData[playerid][pSick]);
 	mysql_format(g_SQL, cQuery, sizeof(cQuery), "%s`hospital` = '%d', ", cQuery, pData[playerid][pHospital]);

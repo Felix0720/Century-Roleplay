@@ -1915,7 +1915,7 @@ CMD:sethbe(playerid, params[])
 		
 	pData[otherid][pHunger] = jumlah;
 	pData[otherid][pEnergy] = jumlah;
-	pData[otherid][pBladder] = jumlah;
+	pData[otherid][pStress] = jumlah;
 	pData[otherid][pSick] = 0;
 	SetPlayerDrunkLevel(playerid, 0);
 	SendStaffMessage(COLOR_RED, "%s telah men set jumlah hbe player %s", pData[playerid][pAdminname], pData[otherid][pName]);

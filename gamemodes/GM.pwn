@@ -192,10 +192,12 @@ enum E_PLAYERS
 	Float:pHealth,
     Float:pArmour,
 	pHunger,
-	pBladder,
+	pStress,
 	pEnergy,
+	pBladder,
 	pHungerTime,
 	pEnergyTime,
+	pStressTime,
 	pBladderTime,
 	pSick,
 	pSickTime,
@@ -2204,16 +2206,14 @@ SetPlayerSpawn(playerid)
 			}
 			if(pData[playerid][pHBEMode] == 2) //modern
 			{
-				PlayerTextDrawShow(playerid, PERSENBAR[playerid]);
-				PlayerTextDrawShow(playerid, BARPERSEN[playerid]);
-				for(new txd; txd < 10; txd++)
+				for(new txd; txd < 21 ; txd++)
 				{
-					TextDrawShowForPlayer(playerid, BAR[txd]);
+				    TextDrawShowForPlayer(playerid, HBE[txd]);
 				}
-			}
-			else
-			{
-				
+				for(new txdp; txdp < 8; txdp++)
+				{
+				    PlayerTextDrawShow(playerid, HBEP[txdp][playerid]);
+				}
 			}
 			SetPlayerSkin(playerid, pData[playerid][pSkin]);
 			if(pData[playerid][pOnDuty] >= 1)
@@ -3339,7 +3339,7 @@ public OnPlayerKeyStateChange(playerid, newkeys, oldkeys)
 	   	}
 	   	else
 	   	{
-	   		pData[playerid][pBladder] -= 1;
+	   	//	pData[playerid][pBladder] -= 1;
 		    pData[playerid][pEnergy] += 5;
 		}
 	}
@@ -4030,14 +4030,15 @@ ptask PlayerUpdate[999](playerid)
 		{
 			pData[playerid][pEnergy] = 0;
 		}
-		if(pData[playerid][pBladder] > 100)
+		if(pData[playerid][pStress] > 100)
 		{
-			pData[playerid][pBladder] = 100;
+			pData[playerid][pStress] = 0;
 		}
-		if(pData[playerid][pBladder] < 0)
+		if(pData[playerid][pStress] < 0)
 		{
-			pData[playerid][pBladder] = 0;
+			pData[playerid][pStress] = 40;
 		}
+		
 		/*if(pData[playerid][pHealth] > 100.0)
 		{
 			SetPlayerHealthEx(playerid, 100.0);
@@ -4049,39 +4050,45 @@ ptask PlayerUpdate[999](playerid)
 		SetPlayerProgressBarColour(playerid, pData[playerid][sphungrybar], ConvertHBEColor(pData[playerid][pHunger]));
 		SetPlayerProgressBarValue(playerid, pData[playerid][spenergybar], pData[playerid][pEnergy]);
 		SetPlayerProgressBarColour(playerid, pData[playerid][spenergybar], ConvertHBEColor(pData[playerid][pEnergy]));
-		SetPlayerProgressBarValue(playerid, pData[playerid][spbladdybar], pData[playerid][pBladder]);
-		SetPlayerProgressBarColour(playerid, pData[playerid][spbladdybar], ConvertHBEColor(pData[playerid][pBladder]));
+		SetPlayerProgressBarValue(playerid, pData[playerid][spbladdybar], pData[playerid][pStress]);
+		SetPlayerProgressBarColour(playerid, pData[playerid][spbladdybar], ConvertHBEColor(pData[playerid][pStress]));
 	}
 	else if(pData[playerid][pHBEMode] == 2 && pData[playerid][IsLoggedIn] == true)
 	{
-		new strings[248];
-
-		format(strings, sizeof(strings), "%d", pData[playerid][pEnergy]);
-		PlayerTextDrawSetString(playerid, BARPERSEN[playerid], strings);
-		PlayerTextDrawShow(playerid, BARPERSEN[playerid]);
-
+		new strings[256];
+		
 		format(strings, sizeof(strings), "%d", pData[playerid][pHunger]);
-		PlayerTextDrawSetString(playerid, PERSENBAR[playerid], strings);
-		PlayerTextDrawShow(playerid, PERSENBAR[playerid]);
+		PlayerTextDrawSetString(playerid, HBEP[4][playerid], strings);
+		PlayerTextDrawShow(playerid, HBEP[4][playerid]);
+		
+		format(strings, sizeof(strings), "%d", pData[playerid][pEnergy]);
+		PlayerTextDrawSetString(playerid, HBEP[5][playerid], strings);
+		PlayerTextDrawShow(playerid, HBEP[7][playerid]);
+		
+		format(strings, sizeof(strings), "%d", pData[playerid][pStress]);
+		PlayerTextDrawSetString(playerid, HBEP[6][playerid], strings);
+		PlayerTextDrawShow(playerid, HBEP[6][playerid]);
+		
+		/*format(strings, sizeof(strings), "%d", pData[playerid][pBladder]);
+		PlayerTextDrawSetString(playerid, HBEP[7][playerid], strings);
+		PlayerTextDrawShow(playerid, HBE[7][playerid]);*/
+		
+		format(strings, sizeof(strings), "%d", GetPlayerPing(playerid));
+		PlayerTextDrawSetString(playerid, HBEP[3][playerid], strings);
+		PlayerTextDrawShow(playerid, HBEP[3][playerid]);
+		
+		format(strings, sizeof(strings), "%d", playerid);
+		PlayerTextDrawSetString(playerid, HBEP[2][playerid], strings);
+		PlayerTextDrawShow(playerid, HBEP[2][playerid]);
 	}
 
 	if(pData[playerid][pEnergy] < 65 && pData[playerid][pHunger] < 65)
 	{
-		PlayerTextDrawShow(playerid, BARPERSEN[playerid]);
-		PlayerTextDrawShow(playerid, PERSENBAR[playerid]);
-		for(new txd;txd < 10; txd++)
-		{
-			TextDrawShowForPlayer(playerid, BAR[txd]);
-		}
+	
 	}
 	else if(pData[playerid][pEnergy] == 100 && pData[playerid][pHunger] == 100)
 	{
-		PlayerTextDrawHide(playerid, BARPERSEN[playerid]);
-		PlayerTextDrawHide(playerid, PERSENBAR[playerid]);
-		for(new txd;txd < 10; txd++)
-		{
-			TextDrawHideForPlayer(playerid, BAR[txd]);
-		}
+		
 	}
 	
 	if(pData[playerid][pHospital] == 1)
@@ -4112,7 +4119,7 @@ ptask PlayerUpdate[999](playerid)
             pData[playerid][pHospital] = 0;
 			pData[playerid][pHunger] = 50;
 			pData[playerid][pEnergy] = 50;
-			pData[playerid][pBladder] = 50;
+			pData[playerid][pStress] = 0;
 			SetPlayerHealthEx(playerid, 50);
 			pData[playerid][pSick] = 0;
 			GivePlayerMoneyEx(playerid, -150);
@@ -4171,9 +4178,10 @@ ptask PlayerUpdate[999](playerid)
             {
                 pData[playerid][pHunger]--;
             }
-            else if(pData[playerid][pHunger] <= 0)
+            else if(pData[playerid][pHunger] <= 10)
             {
                 //SetPlayerHealth(playerid, health - 10);
+                Info(playerid, "Kamu mulai kehilangan kesadaran karena kelaparan.");
           		//SetPlayerDrunkLevel(playerid, 8000);
           		pData[playerid][pSick] = 1;
             }
@@ -4185,27 +4193,28 @@ ptask PlayerUpdate[999](playerid)
             {
                 pData[playerid][pEnergy]--;
             }
-            else if(pData[playerid][pEnergy] <= 0)
+            else if(pData[playerid][pEnergy] <= 10)
             {
                 //SetPlayerHealth(playerid, health - 10);
-          		//SetPlayerDrunkLevel(playerid, 8000);
+                Info(playerid, "Kamu sangat kehausan.");
+          		//SetPlayerDrunkLevel(playerid, 7000);
           		pData[playerid][pSick] = 1;
             }
             pData[playerid][pEnergyTime] = 0;
         }
-        if(++ pData[playerid][pBladderTime] >= 100)
+        if(++ pData[playerid][pStressTime] >= 150)
         {
-            if(pData[playerid][pBladder] > 0)
+            if(pData[playerid][pStress] < 97)
             {
-                pData[playerid][pBladder]--;
+                pData[playerid][pStress]++;
             }
-            else if(pData[playerid][pBladder] <= 0)
+            else if(pData[playerid][pStress] >= 90)
             {
                 //SetPlayerHealth(playerid, health - 10);
-          		//SetPlayerDrunkLevel(playerid, 8000);
-          		pData[playerid][pSick] = 1;
+                Info(playerid, "Sepertinya kamu mengalami stress berat kami sarankan anda ke rumah sakit untuk membeli obat atau ke tempat healing.");
+          		SetPlayerDrunkLevel(playerid, 2200);
             }
-            pData[playerid][pBladderTime] = 0;
+            pData[playerid][pStressTime] = 0;
         }
 		if(pData[playerid][pSick] == 1)
 		{
